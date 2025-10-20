@@ -1,0 +1,33 @@
+# Treat common multimedia files and archives as binary
+# Images
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.bmp binary
+*.tif binary
+*.tiff binary
+*.webp binary
+
+# Audio
+*.mp3 binary
+*.wav binary
+*.flac binary
+*.aac binary
+*.ogg binary
+*.m4a binary
+
+# Video
+*.mp4 binary
+*.mov binary
+*.avi binary
+*.mkv binary
+*.webm binary
+*.flv binary
+
+# Archives / other binaries
+*.zip binary
+*.tar.gz binary
+*.tgz binary
+*.7z binary
+*.gz binary

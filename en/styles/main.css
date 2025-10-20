@@ -36,8 +36,31 @@ header {
     color: #111;
     text-align: center;
     padding: 24px 0 0px 0;
+    position: relative;
 }
 
+.lang-switcher {
+    position: absolute;
+    top: 24px;
+    right: 32px;
+    font-family: "Fira Mono", "Consolas", monospace;
+    font-size: 0.9em;
+    color: #888;
+}
+
+.lang-switcher a {
+    color: #888;
+    text-decoration: none;
+}
+
+.lang-switcher a:hover {
+    color: #111;
+}
+
+.lang-switcher .lang-active {
+    color: #111;
+    font-weight: bold;
+}
 
 section {
     padding: 0px;
@@ -324,6 +347,11 @@ footer {
     .site-logo {
         width: 100px;
         height: 100px;
+    }
+    .lang-switcher {
+        top: 16px;
+        right: 12px;
+        font-size: 0.85em;
     }
 }
 

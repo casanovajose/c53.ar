@@ -8,15 +8,27 @@ let animationInterval = null;
 let mouseMoving = false;
 let placeholdersEl;
 let definitionEl;
+let contextEl;
 const alphabet = "abcdefghijklmnopqrstuvwxyz";
 const alphabetUpper = alphabet.toUpperCase();
 let currentOffset = 0;
 let definitionChaosInterval = null;
+let contextChaosInterval = null;
 let currentDefinition = '';
+let currentContext = '';
+let bgMapEl = null;
 
 async function init() {
   placeholdersEl = document.getElementById("placeholders");
   definitionEl = document.getElementById("definition");
+  contextEl = document.getElementById("context");
+  
+  // Initialize background map
+  bgMapEl = document.getElementById("background_map");
+  if (bgMapEl && typeof AsciiMapGenerator !== 'undefined') {
+    AsciiMapGenerator.enableAutoResize(bgMapEl, { color: '#530000' });
+  }
+  
   // create placeholders
   placeholdersEl.innerHTML = "";
   for (let i = 0; i < LETTER_COUNT; i++) {
@@ -52,14 +64,22 @@ async function init() {
     mouseMoving = true;
     onMouseMove(e);           // animates word
     startDefinitionChaos();   // animates definition
+    startContextChaos();      // animates context
     if (mouseTimer) clearTimeout(mouseTimer);
     mouseTimer = setTimeout(() => {
       mouseMoving = false;
       stopChaos();            // stop word animation
       stopDefinitionChaos();  // stop definition animation
+      stopContextChaos();     // stop context animation
       onMouseStop();
     }, 200);
   });
+}
+
+function regenerateMap() {
+  if (bgMapEl && typeof AsciiMapGenerator !== 'undefined') {
+    AsciiMapGenerator.drawMap(bgMapEl, { color: '#320000' });
+  }
 }
 
 function pickRandomWordAndRender() {
@@ -68,6 +88,7 @@ function pickRandomWordAndRender() {
     currentWord = "WARWORD";
     currentOffset = 0;
     definitionEl.textContent = "";
+    contextEl.textContent = "";
     renderWord(currentWord, currentOffset);
     return;
   }
@@ -75,8 +96,25 @@ function pickRandomWordAndRender() {
   currentWord = choice.word.toUpperCase();
   // Calculate a random offset so the word can appear anywhere in the placeholders
   currentOffset = Math.floor(Math.random() * (LETTER_COUNT - currentWord.length + 1));
-  setDefinitionAnimated(choice.definition || '');
+  
+  // Randomly select a definition (support both string and array)
+  let selectedDefinition = '';
+  if (Array.isArray(choice.definition)) {
+    selectedDefinition = choice.definition[Math.floor(Math.random() * choice.definition.length)];
+  } else {
+    selectedDefinition = choice.definition || '';
+  }
+  
+  // Randomly select a context if available
+  let selectedContext = '';
+  if (choice.context && Array.isArray(choice.context) && choice.context.length > 0) {
+    selectedContext = choice.context[Math.floor(Math.random() * choice.context.length)];
+  }
+  
+  setDefinitionAnimated(selectedDefinition);
+  setContextAnimated(selectedContext);
   renderWord(currentWord, currentOffset);
+  regenerateMap();
 }
 
 function renderWord(word, offset = currentOffset, fixed = fixedIndex) {
@@ -104,6 +142,8 @@ function renderWord(word, offset = currentOffset, fixed = fixedIndex) {
 function onMouseMove(e) {
   if (!currentWord) return;
   if (fixedIndex === null) {
+    // Show [LOADING] while chaos is happening
+    setContextAnimated("[LOADING]", true);
     const maxIndex = currentWord.length - 1;
     if (maxIndex < 0) {
       fixedIndex = Math.floor(Math.random() * LETTER_COUNT);
@@ -114,6 +154,7 @@ function onMouseMove(e) {
   // Only start chaos if not already running
   if (!animationInterval) startChaosExcept(fixedIndex);
   if (!definitionChaosInterval) startDefinitionChaos();
+  if (!contextChaosInterval) startContextChaos();
 }
 
 function startChaosExcept(fixed) {
@@ -171,7 +212,20 @@ function onMouseStop() {
     for (let offset = 0; offset <= LETTER_COUNT - word.length; offset++) {
       let idx = fixedIndex - offset;
       if (idx >= 0 && idx < word.length && (!targetLetter || word[idx] === targetLetter)) {
-        candidates.push({ word, definition: d.definition, offset });
+        // Randomly select definition and context
+        let selectedDefinition = '';
+        if (Array.isArray(d.definition)) {
+          selectedDefinition = d.definition[Math.floor(Math.random() * d.definition.length)];
+        } else {
+          selectedDefinition = d.definition || '';
+        }
+        
+        let selectedContext = '';
+        if (d.context && Array.isArray(d.context) && d.context.length > 0) {
+          selectedContext = d.context[Math.floor(Math.random() * d.context.length)];
+        }
+        
+        candidates.push({ word, definition: selectedDefinition, context: selectedContext, offset });
       }
     }
   }
@@ -180,6 +234,8 @@ function onMouseStop() {
     currentWord = choice.word;
     currentOffset = choice.offset;
     setDefinitionAnimated(choice.definition || "");
+    setContextAnimated(choice.context || "");
+    regenerateMap();
   }
   // render final word
   renderWord(currentWord, currentOffset, fixedIndex);
@@ -219,6 +275,51 @@ function stopDefinitionChaos() {
     definitionChaosInterval = null;
   }
   definitionEl.textContent = currentDefinition;
+}
+
+function setContextAnimated(text, isSpecial = false) {
+  // Handle special cases
+  if (!text || text === "...") {
+    currentContext = "...";
+    contextEl.classList.add("no-quotes");
+  } else if (isSpecial) {
+    currentContext = text;
+    contextEl.classList.add("no-quotes");
+  } else {
+    currentContext = text;
+    contextEl.classList.remove("no-quotes");
+  }
+  
+  // If mouse is moving, start chaos
+  if (mouseMoving) {
+    startContextChaos();
+  } else {
+    stopContextChaos();
+    contextEl.textContent = currentContext;
+  }
+}
+
+function startContextChaos() {
+  if (contextChaosInterval) return; // Already running
+  contextChaosInterval = setInterval(() => {
+    let fake = "";
+    for (let i = 0; i < currentContext.length; i++) {
+      if (currentContext[i] === " ") {
+        fake += " ";
+      } else {
+        fake += alphabet[Math.floor(Math.random() * alphabet.length)];
+      }
+    }
+    contextEl.textContent = fake;
+  }, 40);
+}
+
+function stopContextChaos() {
+  if (contextChaosInterval) {
+    clearInterval(contextChaosInterval);
+    contextChaosInterval = null;
+  }
+  contextEl.textContent = currentContext;
 }
 
 // initialize on DOM ready

@@ -2,283 +2,796 @@
   "list": [
     {
       "word": "BATTLE",
-      "definition": "A sustained fight between large organized armed forces."
+      "definition": [
+        "A sustained fight between large organized armed forces.",
+        "A violent confrontation involving military forces contesting for strategic advantage or territorial control.",
+        "An extended engagement where opposing armies clash with significant casualties and resource expenditure."
+      ],
+      "context": [
+        "The Battle of Verdun lasted nearly a year, claiming hundreds of thousands of lives.",
+        "Historians debate whether the battle was won through superior tactics or sheer numerical advantage."
+      ]
     },
     {
       "word": "ATTACK",
-      "definition": "An aggressive action against a person or place to cause damage or injury."
+      "definition": [
+        "An aggressive action against a person or place to cause damage or injury.",
+        "A deliberate offensive operation intended to weaken, destroy, or capture an enemy position.",
+        "The initiation of hostile action against a target with intent to harm or neutralize."
+      ],
+      "context": [
+        "The surprise attack at dawn caught the garrison completely unprepared.",
+        "Military analysts warned that the attack violated international humanitarian law."
+      ]
     },
     {
       "word": "ASSAULT",
-      "definition": "A physical attack or threat that causes fear of harm."
+      "definition": [
+        "A physical attack or threat that causes fear of harm.",
+        "A violent and unlawful attack on another person, often involving physical force or weapons.",
+        "In military terms, a rapid and concentrated offensive against a fortified position or enemy line."
+      ],
+      "context": [
+        "The assault on the fortress began at midnight with heavy artillery bombardment.",
+        "Victims of the assault suffered both physical injuries and lasting psychological trauma."
+      ]
     },
     {
       "word": "AMBUSH",
-      "definition": "A surprise attack from a concealed position."
+      "definition": [
+        "A surprise attack from a concealed position.",
+        "A tactical maneuver where forces lie in wait to strike an unsuspecting enemy passing through.",
+        "The act of attacking unexpectedly from a hidden location, often to maximize psychological impact and confusion."
+      ],
+      "context": [
+        "The convoy was destroyed in an ambush along the narrow mountain pass.",
+        "Guerrilla fighters perfected ambush tactics against conventional military columns."
+      ]
     },
     {
       "word": "ARMORY",
-      "definition": "A place where weapons and military equipment are stored."
+      "definition": [
+        "A place where weapons and military equipment are stored.",
+        "A facility designed for the secure storage, maintenance, and distribution of arms and ammunition.",
+        "A fortified building or room containing a collection of weapons and protective equipment for military use."
+      ],
+      "context": [
+        "Rebels raided the armory, seizing enough weapons to arm hundreds of fighters.",
+        "The national armory contained stockpiles of weapons dating back decades."
+      ]
     },
     {
       "word": "ARSON",
-      "definition": "The criminal act of deliberately setting fire to property."
+      "definition": [
+        "The criminal act of deliberately setting fire to property.",
+        "The intentional and malicious burning of buildings or property, often as a weapon of terror or revenge.",
+        "A destructive act involving the use of fire to damage or destroy property, frequently employed in warfare and civil unrest."
+      ],
+      "context": [
+        "The retreating army committed arson, leaving entire villages in flames.",
+        "Arson attacks against civilian infrastructure are considered war crimes under international law."
+      ]
     },
     {
       "word": "BLOCKADE",
-      "definition": "An effort to cut off supplies or communication to a place."
+      "definition": [
+        "An effort to cut off supplies or communication to a place.",
+        "A strategic operation preventing goods, people, or communication from entering or leaving a specific area.",
+        "The sealing off of a city, port, or region by military force to compel surrender through deprivation."
+      ],
+      "context": [
+        "The naval blockade prevented food and medicine from reaching the besieged population.",
+        "Economic blockades can cause widespread suffering among civilian populations."
+      ]
     },
     {
       "word": "BOMBING",
-      "definition": "The act of attacking with explosive devices."
+      "definition": [
+        "The act of attacking with explosive devices.",
+        "The delivery of explosives from aircraft or other platforms to destroy targets and terrorize populations.",
+        "A method of warfare involving the dropping or detonation of bombs to inflict maximum damage and casualties."
+      ],
+      "context": [
+        "The bombing campaign reduced the city to rubble within weeks.",
+        "Survivors described the terror of nightly bombing raids that left thousands dead."
+      ]
     },
     {
       "word": "CASUALTY",
-      "definition": "A person killed or injured in a war or accident."
+      "definition": [
+        "A person killed or injured in a war or accident.",
+        "Military or civilian personnel who are killed, wounded, missing, or captured during armed conflict.",
+        "The human cost of war measured in deaths, injuries, and those rendered unable to continue fighting."
+      ],
+      "context": [
+        "Casualty figures from the offensive remain disputed decades later.",
+        "Medics worked frantically to treat the mounting casualties from the artillery barrage."
+      ]
     },
     {
       "word": "CAVALRY",
-      "definition": "Soldiers who fight mounted on horseback or armored vehicles."
+      "definition": [
+        "Soldiers who fight mounted on horseback or armored vehicles.",
+        "Military units originally composed of mounted troops, now often referring to mechanized or armored divisions.",
+        "Mobile fighting forces historically on horses, evolved to include tanks and armored personnel carriers."
+      ],
+      "context": [
+        "The cavalry charge broke through enemy lines in a dramatic display of force.",
+        "Modern cavalry units operate armored vehicles rather than horses on the battlefield."
+      ]
     },
     {
       "word": "CENSOR",
-      "definition": "To suppress or control information, often during wartime."
+      "definition": [
+        "To suppress or control information, often during wartime.",
+        "The official examination and suppression of material deemed sensitive or harmful to state interests.",
+        "The practice of restricting access to information, typically to maintain morale or prevent intelligence leaks during conflict."
+      ],
+      "context": [
+        "Military censors redacted letters home to prevent disclosure of troop movements.",
+        "The government imposed strict censorship on all media coverage of the invasion."
+      ]
     },
     {
       "word": "CHARGE",
-      "definition": "A rapid forward attack against an enemy position."
+      "definition": [
+        "A rapid forward attack against an enemy position.",
+        "An aggressive rush toward enemy lines with the intent to break through or overwhelm defenses.",
+        "A coordinated assault where troops advance at speed, often in the face of heavy fire, to engage in close combat."
+      ],
+      "context": [
+        "The infantry charge was met with devastating machine gun fire from entrenched positions.",
+        "Officers ordered a final charge in a desperate attempt to capture the strategic hilltop."
+      ]
     },
     {
       "word": "CIVILIAN",
-      "definition": "A person not in the armed services or the police force."
+      "definition": [
+        "A person not in the armed services or the police force.",
+        "Non-combatants who are legally protected from direct attack under international humanitarian law.",
+        "Members of the general population not engaged in military activities, often the primary victims of modern warfare."
+      ],
+      "context": [
+        "Civilians bore the brunt of the violence as armies clashed in populated areas.",
+        "International law requires parties to a conflict to distinguish between combatants and civilians."
+      ]
     },
     {
       "word": "COLONEL",
-      "definition": "A senior military officer rank below general."
+      "definition": [
+        "A senior military officer rank below general.",
+        "A commissioned officer typically commanding a regiment or serving in senior staff positions.",
+        "A high-ranking officer responsible for tactical command and coordination of military operations."
+      ],
+      "context": [
+        "The colonel briefed his officers on the planned offensive before dawn.",
+        "After thirty years of service, she was promoted to the rank of colonel."
+      ]
     },
     {
       "word": "CONVOY",
-      "definition": "A group of vehicles or ships traveling together for protection."
+      "definition": [
+        "A group of vehicles or ships traveling together for protection.",
+        "A formation of transport vehicles or vessels escorted by armed forces to ensure safe passage through hostile territory.",
+        "Organized movement of supplies, troops, or equipment traveling in formation to deter or defend against attack."
+      ],
+      "context": [
+        "The humanitarian convoy came under fire despite displaying clear markings.",
+        "Naval convoys were essential for transporting supplies across submarine-infested waters."
+      ]
     },
     {
       "word": "CRIME",
-      "definition": "Violations of law; in wartime can include war crimes."
+      "definition": [
+        "Violations of law; in wartime can include war crimes.",
+        "Acts forbidden by law and punishable by the state, including atrocities committed during armed conflict.",
+        "Illegal actions that harm individuals or societies, particularly egregious when committed systematically during war."
+      ],
+      "context": [
+        "The tribunal prosecuted crimes against humanity committed during the occupation.",
+        "War crimes included the deliberate targeting of hospitals and schools."
+      ]
     },
     {
       "word": "DANGER",
-      "definition": "Exposure to harm, risk, or injury."
+      "definition": [
+        "Exposure to harm, risk, or injury.",
+        "The possibility of suffering harm or loss, especially prevalent in conflict zones.",
+        "A state where individuals or groups face immediate threats to safety and survival."
+      ],
+      "context": [
+        "Civilians living near the border face constant danger from stray artillery fire.",
+        "Warning signs marked areas of extreme danger due to unexploded ordnance."
+      ]
     },
     {
       "word": "DEATH",
-      "definition": "The end of life caused by violence, disease, or accident."
+      "definition": [
+        "The end of life caused by violence, disease, or accident.",
+        "The permanent cessation of all biological functions, often resulting from warfare or violent conflict.",
+        "The ultimate consequence of violence, marking the termination of human existence."
+      ],
+      "context": [
+        "Death tolls from the conflict exceeded all initial estimates.",
+        "Witnesses described scenes of mass death following the chemical attack."
+      ]
     },
     {
       "word": "DEFEAT",
-      "definition": "A loss in battle or conflict; the opposite of victory."
+      "definition": [
+        "A loss in battle or conflict; the opposite of victory.",
+        "The state of being overcome or beaten in combat, resulting in surrender or retreat.",
+        "Military failure to achieve objectives, often leading to territorial loss or political consequences."
+      ],
+      "context": [
+        "The crushing defeat forced the army to withdraw beyond the border.",
+        "Historians debate whether the defeat was inevitable or preventable."
+      ]
     },
     {
       "word": "DEFUSE",
-      "definition": "To make a dangerous situation safe, such as disarming explosives."
+      "definition": [
+        "To make a dangerous situation safe, such as disarming explosives.",
+        "The careful process of rendering bombs or mines inoperative to prevent detonation.",
+        "To reduce tension or danger in a volatile situation before it escalates into violence."
+      ],
+      "context": [
+        "Bomb disposal experts worked carefully to defuse the improvised explosive device.",
+        "Diplomats attempted to defuse the crisis through emergency negotiations."
+      ]
     },
     {
       "word": "DEPLOY",
-      "definition": "To position troops or resources for military action."
+      "definition": [
+        "To position troops or resources for military action.",
+        "The strategic movement and placement of forces in preparation for operations.",
+        "To bring military units into effective action at designated locations."
+      ],
+      "context": [
+        "The general ordered troops to deploy along the contested frontier.",
+        "Rapid deployment capabilities proved decisive in the early stages of the conflict."
+      ]
     },
     {
       "word": "DESERT",
-      "definition": "To abandon a post or duty."
+      "definition": [
+        "To abandon a post or duty.",
+        "The act of leaving military service without permission, often punishable by court-martial.",
+        "To forsake one's obligations or comrades, typically in the face of danger or hardship."
+      ],
+      "context": [
+        "Soldiers began to desert in large numbers as conditions deteriorated.",
+        "Desertion rates spiked after the disastrous offensive."
+      ]
     },
     {
       "word": "DYNAMITE",
-      "definition": "An explosive used to demolish."
+      "definition": [
+        "An explosive used to demolish.",
+        "A powerful blasting material invented for construction but frequently weaponized in warfare.",
+        "High-explosive compound used to destroy structures, fortifications, and infrastructure."
+      ],
+      "context": [
+        "Sappers used dynamite to blow up the bridge and prevent enemy advance.",
+        "Guerrillas stockpiled dynamite stolen from mining operations for their attacks."
+      ]
     },
     {
       "word": "EMBARGO",
-      "definition": "An official ban on trade with a particular country."
+      "definition": [
+        "An official ban on trade with a particular country.",
+        "Economic sanctions prohibiting commerce as a tool of political pressure or punishment.",
+        "Government-imposed restriction on the import or export of goods to influence foreign policy."
+      ],
+      "context": [
+        "The embargo crippled the economy and caused widespread shortages.",
+        "International embargoes failed to prevent arms from reaching the warring factions."
+      ]
     },
     {
       "word": "EXODUS",
-      "definition": "A mass departure of people, often refugees fleeing violence."
+      "definition": [
+        "A mass departure of people, often refugees fleeing violence.",
+        "The large-scale migration of populations escaping war, persecution, or disaster.",
+        "A forced displacement where entire communities abandon their homes seeking safety elsewhere."
+      ],
+      "context": [
+        "The exodus of refugees overwhelmed neighboring countries' capacity to provide aid.",
+        "Thousands joined the exodus, carrying only what they could carry on their backs."
+      ]
     },
     {
       "word": "FALLEN",
-      "definition": "Those who have died in combat; casualties."
+      "definition": [
+        "Those who have died in combat; casualties.",
+        "Soldiers killed in action, honored and mourned by their nations.",
+        "The dead from military service, often commemorated in memorials and ceremonies."
+      ],
+      "context": [
+        "The memorial wall bears the names of thousands of fallen soldiers.",
+        "Families of the fallen received medals posthumously awarded for valor."
+      ]
     },
     {
       "word": "FASCISM",
-      "definition": "An authoritarian and nationalistic right-wing system of government."
+      "definition": [
+        "An authoritarian and nationalistic right-wing system of government.",
+        "A totalitarian political ideology emphasizing dictatorial power, forcible suppression of opposition, and strong regimentation of society.",
+        "An extreme form of nationalism often involving militarism, racism, and the glorification of violence."
+      ],
+      "context": [
+        "Fascism rose to power through a combination of propaganda and political violence.",
+        "The regime's fascist ideology justified aggressive expansion and persecution of minorities."
+      ]
     },
     {
       "word": "FIGHTER",
-      "definition": "A person or animal that fights."
+      "definition": [
+        "A person or animal that fights.",
+        "An individual engaged in combat, whether as a soldier, insurgent, or warrior.",
+        "Military aircraft designed for air-to-air combat against enemy planes."
+      ],
+      "context": [
+        "Fighter jets scrambled to intercept the approaching enemy bombers.",
+        "The resistance recruited young fighters from villages throughout the region."
+      ]
     },
     {
       "word": "FIREARM",
-      "definition": "A portable gun."
+      "definition": [
+        "A portable gun.",
+        "A weapon that uses explosive force to propel projectiles at high velocity.",
+        "Any handheld weapon capable of discharging bullets or shot through a barrel."
+      ],
+      "context": [
+        "The proliferation of illegal firearms fueled the insurgency.",
+        "Firearm regulations were suspended during the state of emergency."
+      ]
     },
     {
       "word": "FORCED",
-      "definition": "Made to do something against one's will."
+      "definition": [
+        "Made to do something against one's will.",
+        "Compelled through violence, coercion, or threat to act contrary to one's desires.",
+        "Involving the use of physical power or intimidation to achieve compliance."
+      ],
+      "context": [
+        "Civilians were forced to flee their homes under threat of violence.",
+        "Forced conscription violated international human rights standards."
+      ]
     },
     {
       "word": "FRONTLINE",
-      "definition": "The military line or part of an army that is closest to the enemy."
+      "definition": [
+        "The military line or part of an army that is closest to the enemy.",
+        "The most forward position in a battle or war zone where direct combat occurs.",
+        "The boundary between opposing forces where fighting is most intense and dangerous."
+      ],
+      "context": [
+        "Conditions on the frontline were brutal, with constant bombardment and shortages.",
+        "Journalists risked their lives to report from the frontline of the conflict."
+      ]
     },
     {
       "word": "GARRISON",
-      "definition": "Troops stationed to defend an area."
+      "definition": [
+        "Troops stationed to defend an area.",
+        "A military post where soldiers are permanently stationed to maintain control of a territory.",
+        "The body of troops assigned to guard a fortification, town, or strategic location."
+      ],
+      "context": [
+        "The garrison held out for weeks despite being cut off from supplies.",
+        "Reinforcements arrived to strengthen the garrison defending the critical port city."
+      ]
     },
     {
       "word": "GENOCIDE",
-      "definition": "The deliberate killing of a large group of people."
+      "definition": [
+        "The deliberate killing of a large group of people.",
+        "The systematic destruction of a national, ethnic, racial, or religious group through mass murder.",
+        "A crime under international law involving the intent to destroy, in whole or part, a population."
+      ],
+      "context": [
+        "The genocide was meticulously planned and executed over several months.",
+        "International courts prosecuted military leaders for their role in the genocide.",
+        "Survivors testified about the horrors they witnessed during the genocide."
+      ]
     },
     {
       "word": "GRENADE",
-      "definition": "A small bomb thrown by hand or launched mechanically."
+      "definition": [
+        "A small bomb thrown by hand or launched mechanically.",
+        "An explosive weapon designed to fragment upon detonation, causing casualties within a radius.",
+        "A handheld munition that can be thrown or fired to deliver explosive force against enemy positions."
+      ],
+      "context": [
+        "Soldiers lobbed grenades into the bunker before storming the position.",
+        "The explosion from the grenade left a crater in the street and shattered nearby windows."
+      ]
     },
     {
       "word": "GUNNER",
-      "definition": "A soldier who operates a gun or artillery."
+      "definition": [
+        "A soldier who operates a gun or artillery.",
+        "A military specialist trained in the use of heavy weapons, cannons, or mounted guns.",
+        "The crew member responsible for aiming and firing weapons on vehicles or aircraft."
+      ],
+      "context": [
+        "The gunner adjusted the artillery trajectory for maximum impact on enemy trenches.",
+        "Aircraft gunners defended bombers from attacking fighter planes during missions."
+      ]
     },
     {
       "word": "HOSTILE",
-      "definition": "Unfriendly; antagonistic."
+      "definition": [
+        "Unfriendly; antagonistic.",
+        "Showing opposition or resistance, particularly in military or political contexts.",
+        "Characterized by enmity and readiness for conflict or aggression."
+      ],
+      "context": [
+        "The patrol entered hostile territory without adequate reconnaissance.",
+        "Hostile actions by both sides escalated tensions beyond the point of negotiation."
+      ]
     },
     {
       "word": "HURTLE",
-      "definition": "To move at high speed; used for projectiles."
+      "definition": [
+        "To move at high speed; used for projectiles.",
+        "To rush violently or with great force, often describing bullets, missiles, or shrapnel.",
+        "To be propelled rapidly through the air, typically in a dangerous or uncontrolled manner."
+      ],
+      "context": [
+        "Shrapnel hurtled through the air after the bomb detonated in the crowded market.",
+        "The missile hurtled toward its target at supersonic speed."
+      ]
     },
     {
       "word": "INVADE",
-      "definition": "To enter a country or place by force."
+      "definition": [
+        "To enter a country or place by force.",
+        "To launch a military assault with the intent to occupy or conquer territory.",
+        "The act of intruding upon and taking control of another nation's sovereign land."
+      ],
+      "context": [
+        "The decision to invade violated multiple international treaties.",
+        "Forces began to invade at dawn, catching defenders off guard."
+      ]
     },
     {
       "word": "INSURGENT",
-      "definition": "A rebel fighting established authority."
+      "definition": [
+        "A rebel fighting established authority.",
+        "A person who rises in revolt against civil authority or an occupying power.",
+        "Armed fighters engaged in irregular warfare against government forces or foreign occupation."
+      ],
+      "context": [
+        "Insurgent attacks targeted supply convoys and communication infrastructure.",
+        "The insurgent movement gained popular support after government crackdowns."
+      ]
     },
     {
       "word": "JOSTLE",
-      "definition": "To push or shove roughly in chaotic settings."
+      "definition": [
+        "To push or shove roughly in chaotic settings.",
+        "To compete aggressively for position or advantage, often in crowded or violent situations.",
+        "Physical pushing and bumping that occurs in panicked crowds or during civil unrest."
+      ],
+      "context": [
+        "Refugees jostled desperately to board the evacuation trains.",
+        "Protesters and police jostled violently as the demonstration turned chaotic."
+      ]
     },
     {
       "word": "KILLED",
-      "definition": "Having been caused to die; result of lethal violence."
+      "definition": [
+        "Having been caused to die; result of lethal violence.",
+        "Deprived of life through deliberate action, accident, or armed conflict.",
+        "The state of being dead as a consequence of violence or warfare."
+      ],
+      "context": [
+        "Hundreds were killed in the indiscriminate shelling of the city.",
+        "The report confirmed that civilians were killed in violation of international law."
+      ]
     },
     {
       "word": "KIDNAP",
-      "definition": "To take someone away illegally by force."
+      "definition": [
+        "To take someone away illegally by force.",
+        "The abduction of individuals for ransom, political leverage, or other criminal purposes.",
+        "Forcible seizure and detention of persons against their will, often in conflict zones."
+      ],
+      "context": [
+        "Armed groups kidnapped aid workers to demand prisoner releases.",
+        "Families paid exorbitant ransoms to secure the release of kidnapped relatives."
+      ]
     },
     {
       "word": "LAUNCH",
-      "definition": "To set an attack, missile, or operation into motion."
+      "definition": [
+        "To set an attack, missile, or operation into motion.",
+        "To initiate a military offensive or fire a weapon toward a target.",
+        "The act of beginning a coordinated assault or deploying projectile weapons."
+      ],
+      "context": [
+        "The military prepared to launch a preemptive strike at first light.",
+        "Intelligence reports warned that enemy forces were ready to launch their offensive."
+      ]
     },
     {
       "word": "MASSACRE",
-      "definition": "The brutal killing of many people."
+      "definition": [
+        "The brutal killing of many people.",
+        "An indiscriminate and savage slaughter of large numbers, often unarmed civilians.",
+        "A war crime involving the deliberate mass murder of defenseless populations."
+      ],
+      "context": [
+        "The massacre shocked the international community and prompted calls for intervention.",
+        "Survivors of the massacre bore physical and psychological scars for life.",
+        "Historical records document the massacre in harrowing detail."
+      ]
     },
     {
       "word": "MINEFIELD",
-      "definition": "An area planted with explosive mines."
+      "definition": [
+        "An area planted with explosive mines.",
+        "Territory deliberately sown with buried explosives to deny access or cause casualties.",
+        "A hazardous zone where concealed mines pose lethal danger to anyone who enters."
+      ],
+      "context": [
+        "The minefield claimed dozens of victims, including children playing near the border.",
+        "Clearing the minefield required years of painstaking and dangerous work."
+      ]
     },
     {
       "word": "MOBBED",
-      "definition": "Attacked or overwhelmed by a crowd; mob violence."
+      "definition": "Attacked or overwhelmed by a crowd; mob violence.",
+      "context": [
+        "The politician was mobbed by angry protesters demanding accountability for war crimes.",
+        "Aid workers were mobbed by desperate crowds seeking food and medical supplies."
+      ]
     },
     {
       "word": "MORTAR",
-      "definition": "A short artillery piece used to fire explosive shells."
+      "definition": "A short artillery piece used to fire explosive shells.",
+      "context": [
+        "Mortar fire rained down on the city throughout the night, causing widespread destruction.",
+        "Troops set up mortar positions on the hilltop to bombard enemy encampments below."
+      ]
     },
     {
       "word": "MURDER",
-      "definition": "The unlawful killing of another person with intent."
+      "definition": "The unlawful killing of another person with intent.",
+      "context": [
+        "The tribunal charged military officers with the murder of unarmed civilians.",
+        "Witnesses testified about the systematic murder of prisoners held in detention camps.",
+        "Mass murder characterized the darkest days of the conflict."
+      ]
     },
     {
       "word": "NAPALM",
-      "definition": "An incendiary substance used in warfare."
+      "definition": "An incendiary substance used in warfare.",
+      "context": [
+        "Napalm strikes devastated entire villages, leaving survivors with horrific burns.",
+        "The use of napalm against civilian populations was widely condemned as inhumane."
+      ]
     },
     {
       "word": "NATIONALISM",
-      "definition": "Strong identification with one's nation."
+      "definition": "Strong identification with one's nation.",
+      "context": [
+        "Extreme nationalism fueled aggressive territorial expansion and ethnic cleansing.",
+        "Political leaders exploited nationalism to justify military intervention in neighboring states."
+      ]
     },
     {
       "word": "OCCUPY",
-      "definition": "To take control of a place by military force."
+      "definition": "To take control of a place by military force.",
+      "context": [
+        "Enemy forces moved to occupy the capital after defeating government troops.",
+        "The occupation lasted for years, imposing martial law on the subjugated population."
+      ]
     },
     {
       "word": "OFFENSE",
-      "definition": "An aggressive military operation."
+      "definition": "An aggressive military operation.",
+      "context": [
+        "The spring offense aimed to recapture territory lost during the previous year.",
+        "Commanders planned a major offense to break the stalemate along the frontline."
+      ]
     },
     {
       "word": "PATROL",
-      "definition": "A group sent out to monitor an area for security."
+      "definition": "A group sent out to monitor an area for security.",
+      "context": [
+        "The patrol encountered enemy scouts while sweeping the perimeter of the base.",
+        "Night patrols were particularly dangerous due to the risk of ambush in darkness."
+      ]
     },
     {
       "word": "PILLAGE",
-      "definition": "To rob a place using violence."
+      "definition": "To rob a place using violence.",
+      "context": [
+        "Retreating armies pillaged villages, stealing valuables and destroying what they couldn't carry.",
+        "Historical accounts describe the systematic pillage of conquered cities by invading forces."
+      ]
     },
     {
       "word": "POISON",
-      "definition": "A substance that can cause harm or death."
+      "definition": "A substance that can cause harm or death.",
+      "context": [
+        "Chemical weapons poisoned entire regions, contaminating water supplies for decades.",
+        "Assassination attempts using poison have been documented throughout military history."
+      ]
     },
     {
       "word": "PRISON",
-      "definition": "A place where captives or detainees are held."
+      "definition": "A place where captives or detainees are held.",
+      "context": [
+        "Prisoners of war endured brutal conditions in makeshift prison camps.",
+        "The prison held political dissidents and captured enemy combatants in separate wings."
+      ]
     },
     {
       "word": "PROVOCATION",
-      "definition": "Action intended to elicit a hostile response."
+      "definition": "Action intended to elicit a hostile response.",
+      "context": [
+        "Border incursions were seen as deliberate provocations designed to test military readiness.",
+        "The provocation sparked a crisis that nearly escalated into full-scale war."
+      ]
     },
     {
       "word": "RADICAL",
-      "definition": "A person or idea seeking extreme change, sometimes violent."
+      "definition": "A person or idea seeking extreme change, sometimes violent.",
+      "context": [
+        "Radical factions rejected peace negotiations and vowed to continue armed struggle.",
+        "The movement attracted radicals willing to use violence to achieve political goals."
+      ]
     },
     {
       "word": "RAPIER",
-      "definition": "A slender, pointed sword used historically in combat."
+      "definition": "A slender, pointed sword used historically in combat.",
+      "context": [
+        "Officers carried rapiers as symbols of rank and for close-quarters combat.",
+        "The rapier was favored in duels for its precision and deadly thrusting capability."
+      ]
     },
     {
       "word": "RAIDED",
-      "definition": "To attack or invade suddenly and briefly."
+      "definition": "To attack or invade suddenly and briefly.",
+      "context": [
+        "Special forces raided the compound under cover of darkness to rescue hostages.",
+        "Coastal towns were frequently raided by pirates seeking plunder and captives."
+      ]
     },
     {
       "word": "RANSOM",
-      "definition": "Payment demanded for the release of a captive."
+      "definition": [
+        "Payment demanded for the release of a captive.",
+        "Money or compensation required by kidnappers or hostage-takers to free prisoners.",
+        "A sum of money extorted in exchange for the release of detained individuals or return of property."
+      ],
+      "context": [
+        "The ransom demand exceeded one million dollars for the safe return of the diplomats.",
+        "Negotiators worked to reduce the ransom while ensuring the hostages remained unharmed.",
+        "Families struggled to gather the ransom demanded by the insurgent group."
+      ]
     },
     {
       "word": "REFUGEE",
-      "definition": "A person forced to flee due to war."
+      "definition": [
+        "A person forced to flee due to war.",
+        "Individuals displaced from their homeland by armed conflict, persecution, or violence.",
+        "Those seeking asylum and safety in foreign countries after escaping war-torn regions."
+      ],
+      "context": [
+        "Refugee camps along the border housed thousands fleeing the violence.",
+        "International organizations provided aid to refugees crossing into neighboring countries.",
+        "The refugee crisis overwhelmed reception centers as families arrived daily seeking shelter."
+      ]
     },
     {
       "word": "SABOTAGE",
-      "definition": "Deliberate destruction or obstruction."
+      "definition": [
+        "Deliberate destruction or obstruction.",
+        "The intentional undermining of operations, equipment, or infrastructure to hinder an enemy.",
+        "Covert action to damage or disrupt military or industrial capacity during conflict."
+      ],
+      "context": [
+        "Resistance fighters engaged in sabotage operations against railway lines and power stations.",
+        "The sabotage of the fuel depot delayed the enemy's advance by several weeks.",
+        "Intelligence agencies trained operatives in sabotage techniques for behind-the-lines missions."
+      ]
     },
     {
       "word": "SIEGE",
-      "definition": "Surrounding and isolating a place to compel surrender."
+      "definition": [
+        "Surrounding and isolating a place to compel surrender.",
+        "A prolonged military blockade of a city or fortress with the intent to force capitulation through starvation or assault.",
+        "The encirclement and sustained attack on a defended position to capture it or force its occupants to yield."
+      ],
+      "context": [
+        "The siege lasted nine months before the garrison finally surrendered due to lack of food.",
+        "Medieval siege warfare involved battering rams, catapults, and deliberate starvation tactics.",
+        "Civilians trapped inside the city endured horrific conditions during the prolonged siege."
+      ]
     },
     {
       "word": "SHELL",
-      "definition": "Explosive artillery ammunition used to bombard positions."
+      "definition": [
+        "Explosive artillery ammunition used to bombard positions.",
+        "A hollow projectile filled with explosives, fired from artillery pieces or mortars.",
+        "Large-caliber munitions designed to detonate on impact or in the air, causing widespread damage and casualties."
+      ],
+      "context": [
+        "Artillery shells rained down on the trenches throughout the night, killing dozens.",
+        "The shell burst overhead, sending deadly shrapnel in all directions.",
+        "Unexploded shells remained buried in the soil decades after the war ended, posing ongoing danger."
+      ]
     },
     {
       "word": "SLAYED",
-      "definition": "Killed violently; to slay someone is to murder them."
+      "definition": [
+        "Killed violently; to slay someone is to murder them.",
+        "Put to death through deliberate and often brutal means.",
+        "The act of killing, especially in battle or through violent confrontation."
+      ],
+      "context": [
+        "Hundreds were slayed in the massacre that followed the city's capture.",
+        "Legends tell of warriors who slayed enemies in single combat to decide battles.",
+        "Entire villages were slayed as invading armies advanced through the countryside."
+      ]
     },
     {
       "word": "SNIPER",
-      "definition": "A marksman who shoots from concealed positions at long range."
+      "definition": [
+        "A marksman who shoots from concealed positions at long range.",
+        "A highly trained shooter who engages targets from hidden locations using precision rifles.",
+        "A soldier specializing in eliminating high-value targets from great distances without being detected."
+      ],
+      "context": [
+        "The sniper remained motionless for hours, waiting for the perfect shot at the enemy commander.",
+        "Sniper fire pinned down the patrol, forcing them to take cover behind abandoned vehicles.",
+        "Counter-sniper teams were deployed to locate and eliminate the threat terrorizing the streets."
+      ]
     },
     {
       "word": "STRIKE",
-      "definition": "A sudden attack, often by air or missile."
+      "definition": [
+        "A sudden attack, often by air or missile.",
+        "A coordinated military assault designed to hit specific targets with precision and speed.",
+        "An offensive action, particularly airstrikes or missile attacks, to destroy enemy capabilities."
+      ],
+      "context": [
+        "The air strike destroyed the weapons facility in the early morning hours.",
+        "Precision strikes targeted command and control centers to disrupt enemy operations.",
+        "Retaliatory strikes were launched within hours of the initial attack on border positions."
+      ]
     },
     {
       "word": "SUBDUE",
-      "definition": "To bring under control or suppress by force."
+      "definition": [
+        "To bring under control or suppress by force.",
+        "To overcome resistance and establish dominance through military or physical power.",
+        "To conquer and pacify opposition, often involving the use of violence to achieve submission."
+      ],
+      "context": [
+        "Troops were ordered to subdue the rebellion using whatever force necessary.",
+        "It took months of brutal fighting to subdue the insurgent-held territories.",
+        "Police and military units worked together to subdue riots in the capital."
+      ]
     },
     {
       "word": "SUPPLY",
-      "definition": "Provision of equipment, food, or ammunition for operations."
+      "definition": [
+        "Provision of equipment, food, or ammunition for operations.",
+        "The logistics of delivering necessary materials, weapons, and resources to military forces.",
+        "Essential goods and materiel required to sustain troops and maintain combat readiness."
+      ],
+      "context": [
+        "Supply lines were cut off, leaving the besieged garrison without food or ammunition.",
+        "Aerial supply drops became the only way to provision troops trapped behind enemy lines.",
+        "Controlling supply routes proved decisive in determining the outcome of the campaign."
+      ]
     },
     {
       "word": "SURRENDER",

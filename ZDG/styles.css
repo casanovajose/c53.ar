@@ -1,0 +1,85 @@
+:root{
+  --letters: 10; /* configurable number of placeholders */
+}
+*{box-sizing:border-box}
+html,body{height:100%;}
+body{
+  margin:0;
+  background:#000;
+  color:#fff;
+  font-family: Helvetica, Arial, sans-serif;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+}
+#app{width:100%;max-width:1200px;padding:2rem;text-align:center}
+#placeholders{
+  display:flex;
+  gap:1rem;
+  justify-content:space-between;
+  align-items:center;
+  margin:0 auto 2rem auto;
+}
+.placeholder{
+  flex:1 1 0;
+  color:#fff;
+  font-weight:700;
+  font-family:inherit;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  height: min(120px, 12vw);
+  user-select:none;
+}
+.letter {
+  font-family: 'Fira Mono', 'Consolas', 'Menlo', 'Monaco', 'Liberation Mono', monospace;
+  font-size: clamp(24px, 10vw, 120px);
+  line-height:1;
+  position: relative;
+  transition: filter 3s;
+}
+.letter.chaos {
+  filter: blur(2px);
+  transition: filter 0.1s;
+}
+.letter.fixed-underscore {
+  position: relative;
+}
+.letter.fixed-underscore::after {
+  content: '_';
+  
+}
+.letter.placeholder-underscore {
+  position: relative;
+}
+.letter.placeholder-underscore::after {
+  content: '_';
+
+}
+.letter.fixed-letter {
+  color: #f00;
+}
+#definition{
+  color:#666;
+  font-style:italic;
+  max-width:90%;
+  margin:0 auto;
+  transition: opacity 0.3s;
+  opacity: 1;
+  font-size: 1.25rem;
+  line-height: 1.6;
+}
+#definition.fade {
+  opacity: 0;
+}
+@media (max-width:600px){
+  #placeholders{gap:0.5rem}
+  #definition{
+    font-size: 1rem;
+  }
+}
+.text-decoration {
+  text-decoration: underline;
+  text-underline-offset: 0.2em;
+  text-decoration-thickness: 1px;
+}

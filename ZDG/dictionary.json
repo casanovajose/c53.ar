@@ -544,7 +544,11 @@
     },
     {
       "word": "MOBBED",
-      "definition": "Attacked or overwhelmed by a crowd; mob violence.",
+      "definition": [
+        "Attacked or overwhelmed by a crowd; mob violence.",
+        "Subjected to violent assault by an unruly group.",
+        "Overpowered by a hostile mob in a chaotic situation."
+      ],
       "context": [
         "The politician was mobbed by angry protesters demanding accountability for war crimes.",
         "Aid workers were mobbed by desperate crowds seeking food and medical supplies."
@@ -552,7 +556,11 @@
     },
     {
       "word": "MORTAR",
-      "definition": "A short artillery piece used to fire explosive shells.",
+      "definition": [
+        "A short artillery piece used to fire explosive shells.",
+        "A portable cannon that launches projectiles at high angles.",
+        "A weapon that fires shells in a curved trajectory for indirect fire."
+      ],
       "context": [
         "Mortar fire rained down on the city throughout the night, causing widespread destruction.",
         "Troops set up mortar positions on the hilltop to bombard enemy encampments below."
@@ -560,7 +568,11 @@
     },
     {
       "word": "MURDER",
-      "definition": "The unlawful killing of another person with intent.",
+      "definition": [
+        "The unlawful killing of another person with intent.",
+        "The deliberate and premeditated taking of a human life.",
+        "A criminal act of causing someone's death through violence or malice."
+      ],
       "context": [
         "The tribunal charged military officers with the murder of unarmed civilians.",
         "Witnesses testified about the systematic murder of prisoners held in detention camps.",
@@ -569,7 +581,11 @@
     },
     {
       "word": "NAPALM",
-      "definition": "An incendiary substance used in warfare.",
+      "definition": [
+        "An incendiary substance used in warfare.",
+        "A flammable liquid used in bombs to create firestorms.",
+        "A gelled gasoline mixture that sticks to surfaces and burns intensely."
+      ],
       "context": [
         "Napalm strikes devastated entire villages, leaving survivors with horrific burns.",
         "The use of napalm against civilian populations was widely condemned as inhumane."
@@ -577,7 +593,11 @@
     },
     {
       "word": "NATIONALISM",
-      "definition": "Strong identification with one's nation.",
+      "definition": [
+        "Strong identification with one's nation.",
+        "A sense of national consciousness exalting one nation above all others.",
+        "Patriotic feeling, principles, or efforts."
+      ],
       "context": [
         "Extreme nationalism fueled aggressive territorial expansion and ethnic cleansing.",
         "Political leaders exploited nationalism to justify military intervention in neighboring states."
@@ -585,7 +605,11 @@
     },
     {
       "word": "OCCUPY",
-      "definition": "To take control of a place by military force.",
+      "definition": [
+        "To take control of a place by military force.",
+        "To hold or take possession of a territory through invasion.",
+        "To fill or take up space or time."
+      ],
       "context": [
         "Enemy forces moved to occupy the capital after defeating government troops.",
         "The occupation lasted for years, imposing martial law on the subjugated population."
@@ -593,7 +617,11 @@
     },
     {
       "word": "OFFENSE",
-      "definition": "An aggressive military operation.",
+      "definition": [
+        "An aggressive military operation.",
+        "A planned attack or assault on enemy positions.",
+        "The action of attacking an enemy."
+      ],
       "context": [
         "The spring offense aimed to recapture territory lost during the previous year.",
         "Commanders planned a major offense to break the stalemate along the frontline."
@@ -601,7 +629,11 @@
     },
     {
       "word": "PATROL",
-      "definition": "A group sent out to monitor an area for security.",
+      "definition": [
+        "A group sent out to monitor an area for security.",
+        "A squad or unit assigned to guard or inspect an area.",
+        "The act of keeping watch over an area by traversing it."
+      ],
       "context": [
         "The patrol encountered enemy scouts while sweeping the perimeter of the base.",
         "Night patrols were particularly dangerous due to the risk of ambush in darkness."
@@ -609,7 +641,11 @@
     },
     {
       "word": "PILLAGE",
-      "definition": "To rob a place using violence.",
+      "definition": [
+        "To rob a place using violence.",
+        "To loot or plunder a place during war or conflict.",
+        "The act of ransacking and stealing from a defeated enemy."
+      ],
       "context": [
         "Retreating armies pillaged villages, stealing valuables and destroying what they couldn't carry.",
         "Historical accounts describe the systematic pillage of conquered cities by invading forces."
@@ -617,7 +653,11 @@
     },
     {
       "word": "POISON",
-      "definition": "A substance that can cause harm or death.",
+      "definition": [
+        "A substance that can cause harm or death.",
+        "A toxic substance capable of causing illness or death.",
+        "Any substance that is harmful to living organisms."
+      ],
       "context": [
         "Chemical weapons poisoned entire regions, contaminating water supplies for decades.",
         "Assassination attempts using poison have been documented throughout military history."
@@ -625,7 +665,11 @@
     },
     {
       "word": "PRISON",
-      "definition": "A place where captives or detainees are held.",
+      "definition": [
+        "A place where captives or detainees are held.",
+        "A building where people are confined as punishment for crimes.",
+        "An institution for the confinement of persons convicted of serious crimes."
+      ],
       "context": [
         "Prisoners of war endured brutal conditions in makeshift prison camps.",
         "The prison held political dissidents and captured enemy combatants in separate wings."
@@ -633,7 +677,11 @@
     },
     {
       "word": "PROVOCATION",
-      "definition": "Action intended to elicit a hostile response.",
+      "definition": [
+        "Action intended to elicit a hostile response.",
+        "An action or statement that provokes or incites anger or hostility.",
+        "The act of provoking someone to do something."
+      ],
       "context": [
         "Border incursions were seen as deliberate provocations designed to test military readiness.",
         "The provocation sparked a crisis that nearly escalated into full-scale war."
@@ -641,7 +689,11 @@
     },
     {
       "word": "RADICAL",
-      "definition": "A person or idea seeking extreme change, sometimes violent.",
+      "definition": [
+        "A person or idea seeking extreme change, sometimes violent.",
+        "Favoring drastic political, economic, or social reforms.",
+        "Relating to or affecting the fundamental nature of something."
+      ],
       "context": [
         "Radical factions rejected peace negotiations and vowed to continue armed struggle.",
         "The movement attracted radicals willing to use violence to achieve political goals."
@@ -649,7 +701,11 @@
     },
     {
       "word": "RAPIER",
-      "definition": "A slender, pointed sword used historically in combat.",
+      "definition": [
+        "A slender, pointed sword used historically in combat.",
+        "A light, sharp-pointed sword used for thrusting.",
+        "A fencing sword with a narrow blade and a sharp point."
+      ],
       "context": [
         "Officers carried rapiers as symbols of rank and for close-quarters combat.",
         "The rapier was favored in duels for its precision and deadly thrusting capability."
@@ -657,7 +713,11 @@
     },
     {
       "word": "RAIDED",
-      "definition": "To attack or invade suddenly and briefly.",
+      "definition": [
+        "To attack or invade suddenly and briefly.",
+        "To make a sudden attack on an enemy by land, sea, or air.",
+        "To enter a place forcibly in order to take something or capture someone."
+      ],
       "context": [
         "Special forces raided the compound under cover of darkness to rescue hostages.",
         "Coastal towns were frequently raided by pirates seeking plunder and captives."
@@ -1590,7 +1650,16 @@
     },
     {
       "word": "IMPACTS",
-      "definition": "Forceful strikes or collisions causing damage."
+      "definition": [
+        "Forceful strikes or collisions causing damage.",
+        "The effect or influence of one thing on another.",
+        "A forceful collision, especially one that causes damage."
+      ],
+      "context": [
+        "The impact of the explosion was felt miles away, shattering windows and collapsing structures.",
+        "Military strategists analyze the impact of new weapons on battlefield tactics.",
+        "The psychological impact of war on soldiers can last a lifetime."
+      ]
     },
     {
       "word": "INFANTRY",
@@ -1646,7 +1715,14 @@
     {
       "word": "KRAKEN",
       "definition": [
-        "A legendary sea monster of enormous size, used metaphorically for overwhelming destructive power.",
+        "A legendary sea monster of enormous size, used metaphorically for overwhelming destructive power."
+      ],
+      "context": [
+        "The kraken of military spending devours national budgets without mercy.",
+        "In naval warfare, submarines are sometimes called krakens of the deep.",
+        "The kraken represents unstoppable force in military metaphors."
+      ]
+    },
     {
       "word": "LOCKOUT",
       "definition": [
@@ -1678,9 +1754,7 @@
         "Post-Conflict Economies Journal, 2023: In 87% of surveyed conflict zones, 'marauders' were unemployed former soldiers, displaced farmers, or economic refugees, suggesting marauding is economic activity rather than criminal category, survival strategy in collapsed systems rather than moral failure, making distinction between soldier and marauder largely about who's paying them and what we call their violence—when state pays, it's soldiering; when desperation pays, it's marauding; when the economic difference is paycheck versus plunder, the moral difference becomes harder to maintain.",
         "Marauders occupy warfare's marginal spaces, neither full combatants nor pure civilians, exploiting collapse of order they may have caused or may be victims of (Ortiz, 2021). They're manifestation of Hobbes's state of nature, war of all against all, proof that when social contract breaks, might makes right becomes not philosophy but practice, making marauder not deviant but inevitable, not criminal but logical, not problem but symptom of larger problem, suggesting that fighting marauders is pointless—they're effect, not cause, consequence of collapse, not creators of it, though both can be simultaneously true in cycles where violence causes violence causes violence.",
         "Commander: How do we stop marauders? Advisor: Restore order. Commander: How? Advisor: Defeat them. Commander: Then what? Advisor: Then there are no marauders. Commander: But their conditions remain? Advisor: What conditions? Commander: Economic collapse, lack of opportunities. Advisor: That's development's problem. Commander: But marauders come from those conditions. Advisor: So? Commander: So defeating them doesn't eliminate conditions that create them. Advisor: It eliminates them. Commander: Until more emerge from same conditions. Advisor: Then we defeat those too. Commander: Infinitely? Advisor: If necessary. Commander: That's not sustainable. Advisor: Neither is marauding. Commander: Clearly it is. They keep marauding. Advisor: Because we haven't defeated them fully. Commander: Or because defeat doesn't address root causes. Advisor: Root causes aren't military responsibility. Commander: Then whose? Advisor: Someone else's. Commander: And until someone else addresses them? Advisor: We address marauders. Commander: By creating more? Advisor: By defeating current ones. Commander: This is circular. Advisor: So are patrol routes.",
-        "The word 'marauder' derives from French 'marauder' (to prowl, steal), possibly from 'maraud' (rogue, vagabond), perhaps from Middle Dutch 'maroderen' (to plunder), etymology uncertain but universally connected to illicit movement and taking, making marauder defined by motion and acquisition—they move, they take, they move again, lifestyle or strategy where mobility enables survival through appropriation, where staying still means death and taking means life, making marauder the ultimate expression of 'property is theft' made mobile, made armed, made necessary by circumstances that transformed ownership from abstract concept into immediate question of survival: take what you need or die. That's marauding. That's also every military occupation ever, just better funded."
-      ]
-    },  "Military Metaphor Analysis, 2023: Animal and monster metaphors (kraken, dragon, wolf, serpent) appear in operational names 340% more frequently than geographic or personal names, suggesting preference for non-human imagery when describing military operations, possibly to facilitate psychological distance between operators and operated-upon, making violence bestial rather than human, mythic rather than political, making kill-chains sound like fairy tales, which perhaps is the point—if we're battling monsters, we're heroes, not killers.",
+        "The word 'marauder' derives from French 'marauder' (to prowl, steal), possibly from 'maraud' (rogue, vagabond), perhaps from Middle Dutch 'maroderen' (to plunder), etymology uncertain but universally connected to illicit movement and taking, making marauder defined by motion and acquisition—they move, they take, they move again, lifestyle or strategy where mobility enables survival through appropriation, where staying still means death and taking means life, making marauder the ultimate expression of 'property is theft' made mobile, made armed, made necessary by circumstances that transformed ownership from abstract concept into immediate question of survival: take what you need or die. That's marauding. That's also every military occupation ever, just better funded.",
         "The kraken metaphor transforms human agency into natural disaster, strategic choice into elemental force, making war seem more like weather than decision (Lindgren, 2019). It's linguistic abdication of responsibility disguised as epic imagery, way of describing controlled violence as uncontrollable, of framing military action as mythological inevitability, proving that we reach for monsters when we want to avoid mirrors, invoke legends when we'd rather not discuss logistics, because krakens emerge from depths following ancient impulses, while military operations emerge from planning rooms following explicit orders, and one sounds much better than the other.",
         "Civilian: Why name operations after monsters? General: It's tradition. Civilian: What tradition? General: Military tradition. Civilian: Of? General: Metaphor. Civilian: But kraken is Norwegian myth. General: So? Civilian: So we're not Norwegian. General: Metaphors cross borders. Civilian: But why monster? Why not something peaceful? General: Military operations aren't peaceful. Civilian: But must they be monstrous? General: That's... different question. Civilian: Is it? You choose kraken, not dove. General: Doves don't convey appropriate message. Civilian: What message? General: Power. Inevitability. Civilian: Monstrousness? General: Effectiveness. Civilian: Same thing? General: In this context. Civilian: Which context? General: Warfare. Civilian: So in warfare, effectiveness is monstrousness? General: Can be. Civilian: Must be? General: Sometimes. Civilian: And calling it kraken makes that okay? General: Makes it comprehensible. Civilian: Or incomprehensible. General: Depends whether you're releasing the kraken or drowning beneath it.",
         "The word 'kraken' possibly derives from Old Norse 'kraki' (pole, post, something twisted), or from Scandinavian words for uprooted tree or sea creature, etymology uncertain because krakens are uncertain, because sea monsters don't have verifiable origins, only legends and descriptions that grow with each retelling, making kraken etymologically appropriate for military metaphor—both are things that get bigger in the telling, more terrible in description than reality, except when reality becomes description, when metaphor becomes operation, when saying 'release the kraken' means actually releasing violence so overwhelming it breaks human scale, necessitating mythic vocabulary because prosaic words can't contain magnitude, making kraken the word we use when 'a lot of violence' isn't sufficient, when body counts need mythology."
@@ -1688,11 +1762,31 @@
     },
     {
       "word": "LOCKOUT",
-      "definition": "To prevent access; in war can mean sealing an area."
+      "definition": [
+        "Preventing access to an area, denying entry or exit.",
+        "When the door closes and you're on the wrong side—both sides are wrong.",
+        "Making inside and outside into life and death.",
+        "In Czech, 'lockout' uses the same word as 'abandonment', both meaning separation.",
+        "The policy of letting people know where they're not wanted by making 'not wanted' lethal."
+      ],
+      "context": [
+        "The lockout of the city prevented supplies from reaching the population.",
+        "Military lockouts are used to control movement in conflict zones.",
+        "Economic lockouts can starve regions of resources during war."
+      ]
     },
     {
       "word": "MARAUDER",
-      "definition": "A raider who plunders."
+      "definition": [
+        "A raider who plunders.",
+        "A person who roams about in search of plunder.",
+        "A plunderer or raider, especially in war."
+      ],
+      "context": [
+        "Marauders looted the abandoned villages after the battle.",
+        "In times of war, marauders take advantage of chaos to plunder.",
+        "The marauders were driven by greed and desperation."
+      ]
     },
     {
       "word": "NOMADS",
@@ -1715,6 +1809,15 @@
       "word": "OCCUPIED",
       "definition": [
         "Controlled and inhabited by foreign military forces.",
+        "Under the control of an occupying power.",
+        "Held or taken possession of by military force."
+      ],
+      "context": [
+        "Occupied territories often face resistance from local populations.",
+        "International law governs the treatment of occupied peoples.",
+        "Occupation can lead to prolonged conflicts and instability."
+      ]
+    },
     {
       "word": "PILGRIM",
       "definition": [
@@ -1746,9 +1849,8 @@
         "Historical Laws of War, 2023: 'No quarter' declarations (announcing no prisoners will be taken) were outlawed by Geneva Conventions as war crimes, yet quarter denial happens in 67% of documented conflicts through various framings—combatants 'resisting', 'attempting escape', 'threatening', all justifying killing after defeat, suggesting that outlawing 'no quarter' declarations merely drove practice underground rather than eliminating it, that quarter remains more theoretical than practical, that legal obligation to give quarter conflicts with military incentives to not give quarter, creating gap between law and practice where surrendered combatants die while international law pretends they don't.",
         "Quarter embodies warfare's most precarious moment—the instant where victor must choose between humanity and expedience, where beaten foe's life depends on winner's generosity, where power is most absolute and most revealing (O'Neill, 2020). It's test of character disguised as military decision, moral choice disguised as tactical judgment, moment where killing someone becomes murder rather than combat, yet that transition point is unclear, contested, determined by victors who face no meaningful consequences for failing the test, making quarter less right than gift, less expectation than hope, less law than wish, proving that international humanitarian law works great until someone decides it doesn't, at which point it becomes words on paper that the dead can't read.",
         "Prisoner: I surrender. Soldier: Noted. Prisoner: So you give quarter? Soldier: Depends. Prisoner: On what? Soldier: On whether quarter is practicable. Prisoner: Is it? Soldier: I'm considering. Prisoner: While aiming at me? Soldier: I'm multitasking. Prisoner: What makes quarter impracticable? Soldier: If you're threat. Prisoner: I surrendered. Soldier: Potentially resumed threat. Prisoner: I'm unarmed. Soldier: Currently unarmed. Prisoner: This is absurd. I'm surrendering. Soldier: And I'm deciding. Prisoner: What's to decide? Geneva Conventions require quarter. Soldier: When practicable. Prisoner: Always practicable if you just not shoot. Soldier: But shooting is also practicable. Prisoner: That's murder. Soldier: That's denial of quarter. Prisoner: What's the difference? Soldier: Murder is illegal. Prisoner: So is denial of quarter! Soldier: But denial is battlefield decision. Prisoner: Made by people with guns pointed at surrendered people? Soldier: Correct. Prisoner: That's not decision, that's execution. Soldier: Depends whether I execute. Prisoner: This semantic torture! Give quarter or don't, but stop pretending there's complexity. Soldier: There is complexity. You're enemy. Prisoner: Was enemy. Past tense. Surrendered. Soldier: Language is tricky in war. Past, present, future all collapse into 'target' or 'not target'. Prisoner: And which am I? Soldier: Still deciding.",
-        "The word 'quarter' in this sense derives from French 'quartier' (accommodation, housing), from Latin 'quartarius' (fourth part), possibly from practice of providing quarters (housing) to prisoners rather than killing them, or from dividing spoils/ransoms into quarters, etymology uncertain but consistently linking quarter to sparing and housing, making 'give quarter' literally 'provide accommodation', transforming killing-or-not into hospitality decision, making mercy into housing question, making survival into architectural problem—do we have space? Yes? Quarter. No? No quarter. Simple as that. Life or death determined by capacity or willingness to provide accommodations, making every denial of quarter a decision that housing prisoners is less convenient than killing them, which is honest at least, brutally honest, suggests that quarter was always about convenience disguised as mercy, always about captors' interests disguised as captives' rights, always about whether keeping prisoners alive serves winners better than killing them, and when it doesn't, well, no quarter. Simple. Efficient. Monstrous."
-      ]
-    },  "Occupation Studies Journal, 2023: Average occupation duration: 23 years. Average occupation justification: 'temporary security measures'. Average occupier awareness of contradiction: low to none. Occupied populations report feeling 'permanently temporary', occupiers report mission as 'nearly complete' regardless of duration, suggesting both parties exist in different temporal frameworks—occupiers measure in objectives achieved, occupied measure in years stolen, making occupation's length simultaneously too short (for occupiers) and infinite (for occupied).",
+        "The word 'quarter' in this sense derives from French 'quartier' (accommodation, housing), from Latin 'quartarius' (fourth part), possibly from practice of providing quarters (housing) to prisoners rather than killing them, or from dividing spoils/ransoms into quarters, etymology uncertain but consistently linking quarter to sparing and housing, making 'give quarter' literally 'provide accommodation', transforming killing-or-not into hospitality decision, making mercy into housing question, making survival into architectural problem—do we have space? Yes? Quarter. No? No quarter. Simple as that. Life or death determined by capacity or willingness to provide accommodations, making every denial of quarter a decision that housing prisoners is less convenient than killing them, which is honest at least, brutally honest, suggests that quarter was always about convenience disguised as mercy, always about captors' interests disguised as captives' rights, always about whether keeping prisoners alive serves winners better than killing them, and when it doesn't, well, no quarter. Simple. Efficient. Monstrous.",
+        "Occupation Studies Journal, 2023: Average occupation duration: 23 years. Average occupation justification: 'temporary security measures'. Average occupier awareness of contradiction: low to none. Occupied populations report feeling 'permanently temporary', occupiers report mission as 'nearly complete' regardless of duration, suggesting both parties exist in different temporal frameworks—occupiers measure in objectives achieved, occupied measure in years stolen, making occupation's length simultaneously too short (for occupiers) and infinite (for occupied).",
         "Occupation transforms space into perpetual dispute where presence itself is political, where every street corner is claimed and counterclaimed, where maps matter more than territories and territories matter more than people (Goldstein, 2019). It's violence in slow motion, force spread across time, making occupation more exhausting than war—war ends, occupation persists, war produces clarity (winner/loser), occupation produces ambiguity (who belongs where according to whom), war is exceptional, occupation becomes banal, which might be why it's more corrosive—the extraordinary can be endured as temporary, the ordinary, when terrible, destroys souls.",
         "Occupier: We're here to maintain order. Occupied: Whose order? Occupier: The legal order. Occupied: Whose laws? Occupier: International law. Occupied: Which says? Occupier: Occupied territories require interim administration. Occupied: Interim for how long? Occupier: Until conditions normalize. Occupied: What conditions? Occupier: Security conditions. Occupied: Which are? Occupier: Threatened by resistance. Occupied: Resistance to? Occupier: Occupation. Occupied: So occupation creates resistance creates occupation? Occupier: Occupation responds to resistance. Occupied: Which responds to occupation. Occupier: You're reversing causality. Occupied: You're presentin being here as response to us being upset about you being here. Occupier: We're here because previous conditions warranted presence. Occupied: What conditions? Occupier: Instability. Occupied: Caused by? Occupier: Various factors. Occupied: Including? Occupier: That's not relevant. Occupied: Including previous occupation? Occupier: That's... different occupation. Occupied: But same place, same people, same occupation. Occupier: Different legal framework. Occupied: Same tanks. Occupier: Legal status is what matters. Occupied: To whom? Occupier: To international community. Occupied: Which includes you. Occupier: And others. Occupied: Who also occupy places. Occupier: That's... Occupied: Coincidence? Occupier: Complex.",
         "The word 'occupied' derives from Latin 'occupare', from 'ob-' (over) + 'capere' (take, seize), literally 'to seize over', making occupation etymologically about taking-over, about substitution of control, about replacement of authority, suggesting occupation is always about displacement of previous power with new power, always about making 'occupied' mean both 'full' (of occupiers) and 'empty' (of legitimate authority), both 'busy' (with occupation's activities) and 'idle' (stripped of autonomy), both 'filled' (with forces) and 'violated' (by those forces), making 'occupied' the perfect word for the condition—it means everything and nothing, describes situation while explaining nothing, acknowledges presence while ignoring violence, names reality while obscuring it, which is occupation in general: calling invasion 'presence', calling theft 'administration', calling permanent 'temporary', calling wrong 'legal', all through passive voice—'the territory is occupied'—by whom? By forces. Which forces? Occupying forces. Occupied by occupiers. Perfect circularity."
@@ -1756,11 +1858,29 @@
     },
     {
       "word": "PILGRIM",
-      "definition": "Displaced people traveling."
+      "definition": [
+        "Displaced people traveling.",
+        "A person who journeys to a holy place.",
+        "In war contexts, refugees or displaced persons on the move."
+      ],
+      "context": [
+        "Pilgrims traveled across dangerous territories to reach safety.",
+        "The war displaced millions, turning them into pilgrims in search of peace.",
+        "Historical pilgrimages often mirrored the journeys of war refugees."
+      ]
     },
     {
       "word": "QUARTER",
-      "definition": "Providing mercy or shelter; sometimes denied in warfare."
+      "definition": [
+        "Providing mercy or shelter; sometimes denied in warfare.",
+        "Mercy shown to a defeated enemy.",
+        "The act of sparing someone's life in battle."
+      ],
+      "context": [
+        "The general granted quarter to the surrendering troops.",
+        "In ancient warfare, quarter was a privilege not always given.",
+        "Denying quarter was considered a war crime in some traditions."
+      ]
     },
     {
       "word": "RAPTOR",
@@ -2104,83 +2224,218 @@
     },
     {
       "word": "GENOCIDE",
-      "definition": "The deliberate killing of a large group of people."
+      "definition": [
+        "The deliberate killing of a large group of people.",
+        "The systematic destruction of a racial, ethnic, or religious group.",
+        "A crime against humanity involving mass murder."
+      ],
+      "context": [
+        "The genocide resulted in the deaths of millions during the conflict.",
+        "International tribunals prosecute leaders for crimes of genocide.",
+        "Historical genocides serve as warnings against ethnic hatred."
+      ]
     },
     {
       "word": "GUARD",
-      "definition": "A person who keeps watch, especially a soldier or other person assigned to protect a person or to control access to a place."
+      "definition": [
+        "A person who keeps watch, especially a soldier or other person assigned to protect a person or to control access to a place.",
+        "A person who protects or watches over someone or something.",
+        "A soldier stationed to keep guard or watch."
+      ],
+      "context": [
+        "The guard stood watch at the entrance to the base.",
+        "Prison guards monitor inmates to prevent escapes.",
+        "In military terms, guards protect key positions."
+      ]
     },
     {
       "word": "GUNFIRE",
-      "definition": "The shooting of guns."
+      "definition": [
+        "The shooting of guns.",
+        "The firing of guns or other firearms.",
+        "The sound or act of discharging firearms."
+      ],
+      "context": [
+        "Gunfire echoed through the valley during the night attack.",
+        "The ceasefire ended the constant gunfire in the region.",
+        "Soldiers identified enemy positions by the sound of gunfire."
+      ]
     },
     {
       "word": "GUNMAN",
-      "definition": "A man who uses a gun to commit a crime or terrorist act."
+      "definition": [
+        "A man who uses a gun to commit a crime or terrorist act.",
+        "A person who carries and uses a gun, especially in a criminal context.",
+        "An armed assailant or shooter."
+      ],
+      "context": [
+        "The gunman opened fire in the crowded market.",
+        "Police apprehended the gunman after a brief standoff.",
+        "Gunmen often operate in groups for coordinated attacks."
+      ]
     },
     {
       "word": "GUNSHOT",
-      "definition": "A shot fired from a gun."
+      "definition": [
+        "A shot fired from a gun.",
+        "The discharge of a firearm.",
+        "The sound made by a gun when fired."
+      ],
+      "context": [
+        "A single gunshot broke the silence of the night.",
+        "Forensic experts analyzed the gunshot residue on the suspect's hands.",
+        "Gunshots signaled the start of the ambush."
+      ]
     },
     {
       "word": "HELMET",
-      "definition": "A hard or padded protective hat."
+      "definition": [
+        "A hard or padded protective hat.",
+        "A protective head covering worn by soldiers.",
+        "A piece of armor for the head."
+      ],
+      "context": [
+        "Soldiers wear helmets to protect against shrapnel and bullets.",
+        "The helmet saved the soldier from a fatal head injury.",
+        "Modern helmets include communication equipment."
+      ]
     },
     {
       "word": "INJURY",
-      "definition": "Harm or damage."
+      "definition": [
+        "Harm or damage.",
+        "Physical harm or damage to a person.",
+        "A wound or damage to the body."
+      ],
+      "context": [
+        "The field hospital overflowed with injuries, turning a basketball court into a maze of stretchers and IV poles.",
+        "Every injury became a logistics problem: morphine, blood, evacuation, and the question of whether the road was safe enough to use.",
+        "In briefings, injury counts were traded like currency, numbers used to justify delays, diversions, or retaliation."
+      ]
     },
     {
       "word": "INSURGENCY",
-      "definition": "An active revolt or uprising."
+      "definition": [
+        "An active revolt or uprising.",
+        "An act of revolting against civil authority or an established government.",
+        "A rebellion or insurrection."
+      ],
+      "context": [
+        "The insurgency grew in alleys where patrols never lingered, built from whispered favors and shared ammunition.",
+        "Command labeled it an insurgency; the locals called it survival with rifles and borrowed ideology.",
+        "Insurgency turned midnight into curfew and sunrise into ambush, a clock regulated by rumors and gunshots."
+      ]
     },
     {
       "word": "JETFIGHTER",
-      "definition": "A fast military aircraft designed for air-to-air combat."
+      "definition": [
+        "A fast military aircraft designed for air-to-air combat.",
+        "A fighter aircraft powered by jet engines.",
+        "A military plane designed for aerial combat."
+      ],
+      "context": [
+        "Jetfighters tore the sky open, leaving contrails like signatures of authority across the clouds.",
+        "The jetfighter arrived before its own thunder, proof that technology could outrun the fear it caused.",
+        "Villagers watched the jetfighters circle and wondered which village would vanish under the next payload."
+      ]
     },
     {
       "word": "KILLING",
-      "definition": "The act of causing death, especially deliberately."
+      "definition": [
+        "The act of causing death, especially deliberately.",
+        "The act of putting an end to a person's life.",
+        "Murder or homicide."
+      ],
+      "context": [
+        "He talked about killing like logistics, stripping pronouns so bodies became quantities on a slide.",
+        "Killing happened at the press of a button now, distance stretching responsibility until it frayed.",
+        "After the killing, silence weighed more than the rifle he let fall into the mud."
+      ]
     },
     {
       "word": "LANDMINE",
-      "definition": "An explosive mine laid on or just under the surface of the ground."
+      "definition": [
+        "An explosive mine laid on or just under the surface of the ground.",
+        "A buried explosive device that detonates when stepped on.",
+        "A weapon designed to destroy vehicles or injure personnel."
+      ],
+      "context": [
+        "Landmines turned the meadow into a memory game where the wrong guess cost a leg.",
+        "She mapped landmines with sticks and string because official maps never reached her village.",
+        "The war ended but the landmines stayed, patient weapons waiting for peace to step in the wrong place."
+      ]
     },
     {
       "word": "LEADER",
-      "definition": "The person who leads or commands a group, organization, or country."
+      "definition": [
+        "The person who leads or commands a group, organization, or country.",
+        "A person who guides or directs a group.",
+        "A commander or chief."
+      ]
     },
     {
       "word": "MACHINEGUN",
-      "definition": "An automatic gun that fires bullets in rapid succession."
+      "definition": [
+        "An automatic gun that fires bullets in rapid succession.",
+        "A firearm that can fire continuously while the trigger is held down.",
+        "An automatic weapon capable of rapid fire."
+      ]
     },
     {
       "word": "MEDAL",
-      "definition": "A metal disc typically of the kind awarded for bravery or service in war."
+      "definition": [
+        "A metal disc typically of the kind awarded for bravery or service in war.",
+        "An award given for military service or bravery.",
+        "A decoration or honor bestowed for merit."
+      ]
     },
     {
       "word": "MILITARY",
-      "definition": "The armed forces of a country."
+      "definition": [
+        "The armed forces of a country.",
+        "Relating to soldiers or the army.",
+        "Of or relating to the armed forces."
+      ]
     },
     {
       "word": "MISSILE",
-      "definition": "A weapon that is self-propelled or directed by remote control."
+      "definition": [
+        "A weapon that is self-propelled or directed by remote control.",
+        "An object that is forcibly propelled at a target.",
+        "A rocket-propelled weapon."
+      ]
     },
     {
       "word": "MISSION",
-      "definition": "An important assignment carried out for political, religious, or commercial purposes."
+      "definition": [
+        "An important assignment carried out for political, religious, or commercial purposes.",
+        "A task or job that someone is given to do.",
+        "A special assignment given to a person or group."
+      ]
     },
     {
       "word": "NAVY",
-      "definition": "The branch of a nation's armed services that conducts military operations at sea."
+      "definition": [
+        "The branch of a nation's armed services that conducts military operations at sea.",
+        "A country's warships and their crews.",
+        "The naval forces of a nation."
+      ]
     },
     {
       "word": "OFFENSIVE",
-      "definition": "An attacking military campaign."
+      "definition": [
+        "An attacking military campaign.",
+        "A military operation intended to attack the enemy.",
+        "An aggressive action or attitude."
+      ]
     },
     {
       "word": "OPPONENT",
-      "definition": "Someone who competes against or fights another in a contest, game, or argument."
+      "definition": [
+        "Someone who competes against or fights another in a contest, game, or argument.",
+        "A person who opposes another in a contest or dispute.",
+        "An adversary or enemy."
+      ]
     },
     {
       "word": "PARADE",
@@ -2354,51 +2609,109 @@
     },
     {
       "word": "REGIMENT",
-      "definition": "A permanent unit of an army."
+      "definition": [
+        "A permanent unit of an army.",
+        "A large body of troops organized for military service.",
+        "A military unit consisting of several battalions."
+      ]
     },
     {
       "word": "RESCUE",
-      "definition": "To save someone from a dangerous or distressing situation."
+      "definition": [
+        "To save someone from a dangerous or distressing situation.",
+        "To deliver from danger or harm.",
+        "To free from confinement or danger."
+      ]
     },
     {
       "word": "REVOLT",
-      "definition": "Rise in rebellion."
+      "definition": [
+        "Rise in rebellion.",
+        "To rise in rebellion against authority.",
+        "An act of rebelling."
+      ]
     },
     {
       "word": "REVOLUTION",
-      "definition": "A forcible overthrow of a government or social order."
+      "definition": [
+        "A forcible overthrow of a government or social order.",
+        "A fundamental change in political organization.",
+        "The overthrow of a government by those who are governed."
+      ],
+      "context": [
+        "The revolution led to the establishment of a new government.",
+        "Revolutions often involve violence and upheaval.",
+        "Historical revolutions have shaped modern nations."
+      ]
     },
     {
       "word": "RIFLE",
-      "definition": "A gun, especially one fired from shoulder level."
+      "definition": [
+        "A gun, especially one fired from shoulder level.",
+        "A firearm designed to be fired from the shoulder.",
+        "A long-barreled firearm with a rifled bore."
+      ]
     },
     {
       "word": "ROCKET",
-      "definition": "A missile, spacecraft, aircraft or other vehicle that obtains thrust from a rocket engine."
+      "definition": [
+        "A missile, spacecraft, aircraft or other vehicle that obtains thrust from a rocket engine.",
+        "A cylindrical projectile that can be propelled to a great height or distance by the combustion of its contents.",
+        "A vehicle or device propelled by a rocket engine."
+      ]
     },
     {
       "word": "SACRIFICE",
-      "definition": "An act of giving up something valued for the sake of something else."
+      "definition": [
+        "An act of giving up something valued for the sake of something else.",
+        "The act of offering something to a deity in propitiation or homage.",
+        "The surrender or destruction of something prized or desirable for the sake of something considered as having a higher or more pressing claim."
+      ]
     },
     {
       "word": "SARGEANT",
-      "definition": "A non-commissioned officer in the armed forces."
+      "definition": [
+        "A non-commissioned officer in the armed forces.",
+        "A rank of non-commissioned officer in the army or air force.",
+        "A military rank above corporal and below staff sergeant."
+      ]
     },
     {
       "word": "SHOOTER",
-      "definition": "A person who uses a gun."
+      "definition": [
+        "A person who uses a gun.",
+        "One who shoots, especially with a firearm.",
+        "A marksman or gunman."
+      ]
     },
     {
       "word": "SHRAPNEL",
-      "definition": "Fragments of a bomb, shell, or other object thrown out by an explosion."
+      "definition": [
+        "Fragments of a bomb, shell, or other object thrown out by an explosion.",
+        "Small pieces of metal or other material thrown out by an exploding shell.",
+        "The fragments from an artillery shell."
+      ]
     },
     {
       "word": "SILENCER",
-      "definition": "A device for reducing the noise emitted by a gun."
+      "definition": [
+        "A device for reducing the noise emitted by a gun.",
+        "A device attached to a firearm to muffle the sound of discharge.",
+        "A suppressor for gun noise."
+      ]
     },
     {
       "word": "SLAUGHTER",
-      "definition": "The killing of animals for food; or killing of people in a cruel or violent way."
+      "definition": [
+        "The killing of animals for food; or killing of people in a cruel or violent way.",
+        "The killing of animals for food.",
+        "The brutal or violent killing of people."
+      ],
+      "context": [
+        "The slaughter of civilians shocked the world and led to war crimes trials.",
+        "Military slaughters often involve indiscriminate killing in battle.",
+        "The word 'slaughter' evokes the brutality of war's human cost."
+      ]
     },
     {
       "word": "SQUAD",
@@ -2457,275 +2770,1011 @@
     },
     {
       "word": "TACTIC",
-      "definition": "An action or strategy carefully planned to achieve a specific end."
+      "definition": [
+        "An action or strategy carefully planned to achieve a specific end.",
+        "A method or strategy used to achieve a goal.",
+        "A maneuver or stratagem in warfare."
+      ],
+      "context": [
+        "The tactic of surprise attacks often turns the tide of battle.",
+        "Military tactics evolve with technology and terrain.",
+        "Guerrilla tactics rely on mobility and surprise."
+      ]
     },
     {
       "word": "TANK",
-      "definition": "A heavy armored fighting vehicle carrying guns and moving on a continuous articulated metal track."
+      "definition": [
+        "A heavy armored fighting vehicle carrying guns and moving on a continuous articulated metal track.",
+        "A large armored vehicle used in warfare.",
+        "A tracked vehicle designed for combat."
+      ],
+      "context": [
+        "Tanks revolutionized warfare in the 20th century.",
+        "The tank's armor protects against bullets and shells.",
+        "Modern tanks combine firepower, mobility, and protection."
+      ]
     },
     {
       "word": "TERRORISM",
-      "definition": "The unlawful use of violence and intimidation, especially against civilians."
+      "definition": [
+        "The unlawful use of violence and intimidation, especially against civilians.",
+        "The use of violence to achieve political aims.",
+        "Acts of terror designed to create fear."
+      ],
+      "context": [
+        "Terrorism aims to destabilize governments through fear.",
+        "Counter-terrorism strategies focus on intelligence and prevention.",
+        "The definition of terrorism varies by political perspective."
+      ]
     },
     {
       "word": "TERRORIST",
-      "definition": "A person who uses unlawful violence and intimidation."
+      "definition": [
+        "A person who uses unlawful violence and intimidation.",
+        "Someone who engages in terrorism.",
+        "An individual who commits acts of terror."
+      ],
+      "context": [
+        "Terrorists often justify their actions as resistance.",
+        "Law enforcement agencies track terrorist networks.",
+        "The term 'terrorist' is subjective and politically charged."
+      ]
     },
     {
       "word": "TRAITOR",
-      "definition": "A person who betrays someone or something."
+      "definition": [
+        "A person who betrays someone or something.",
+        "One who betrays trust or allegiance.",
+        "A person who is disloyal to their country or cause."
+      ],
+      "context": [
+        "Traitors are often executed for betraying military secrets.",
+        "In war, traitors can turn the tide by providing enemy intelligence.",
+        "The label of traitor depends on which side wins."
+      ]
     },
     {
       "word": "TRAP",
-      "definition": "A device or enclosure designed to catch and retain animals or people."
+      "definition": [
+        "A device or enclosure designed to catch and retain animals or people.",
+        "A snare or device for catching prey.",
+        "In military terms, a booby trap or ambush."
+      ],
+      "context": [
+        "Booby traps are illegal under international law.",
+        "Soldiers must be vigilant for enemy traps in hostile territory.",
+        "Traps can cause unexpected casualties in warfare."
+      ]
     },
     {
       "word": "TROOP",
-      "definition": "Soldiers or armed forces."
+      "definition": [
+        "Soldiers or armed forces.",
+        "A group of soldiers.",
+        "Military personnel collectively."
+      ],
+      "context": [
+        "Troops were deployed to the border to prevent invasion.",
+        "The general reviewed the troops before battle.",
+        "Troop morale is crucial for military success."
+      ]
     },
     {
       "word": "TROPHY",
-      "definition": "A cup or other decorative object awarded as a prize for a victory or success."
+      "definition": [
+        "A cup or other decorative object awarded as a prize for a victory or success.",
+        "A prize or memento of victory.",
+        "In war, captured enemy equipment or flags."
+      ],
+      "context": [
+        "The trophy was awarded to the winning regiment.",
+        "War trophies are often displayed in museums.",
+        "Trophies symbolize achievement in battle."
+      ]
     },
     {
       "word": "TURRET",
-      "definition": "A small tower on top of a larger tower or at the corner of a building or wall."
+      "definition": [
+        "A small tower on top of a larger tower or at the corner of a building or wall.",
+        "A rotating armored structure on a vehicle for mounting guns.",
+        "A projecting part of a building."
+      ],
+      "context": [
+        "The tank's turret houses the main armament.",
+        "Castle turrets provided vantage points for defense.",
+        "Turret design has evolved from medieval fortifications to modern vehicles."
+      ]
     },
     {
       "word": "UNIFORM",
-      "definition": "The distinctive clothing worn by members of the same organization or body."
+      "definition": [
+        "The distinctive clothing worn by members of the same organization or body.",
+        "Standardized clothing for military or official purposes.",
+        "A set of clothes worn by members of a group."
+      ],
+      "context": [
+        "Military uniforms denote rank and branch of service.",
+        "Uniforms create a sense of unity among troops.",
+        "Enemy uniforms help identify combatants in battle."
+      ]
     },
     {
       "word": "VEHICLE",
-      "definition": "A thing used for transporting people or goods."
+      "definition": [
+        "A thing used for transporting people or goods.",
+        "A means of conveyance.",
+        "A machine for transporting people or cargo."
+      ],
+      "context": [
+        "Armored vehicles protect troops in combat zones.",
+        "Military vehicles include tanks, trucks, and helicopters.",
+        "Vehicles are essential for logistics in warfare."
+      ]
     },
     {
       "word": "VICTORY",
-      "definition": "An act of defeating an enemy or opponent in a battle, game, or other competition."
+      "definition": "An act of defeating an enemy or opponent in a battle, game, or other competition.",
+      "context": [
+        "Victory is victory, and that's what we achieved, victory.",
+        "According to Merriam-Webster, victory is the overcoming of an enemy or antagonist.",
+        "We won bigly, tremendous victory, the best victory ever.",
+        "Victory means different things to different people.",
+        "Victory is when you crush the losers completely.",
+        "Victory, as defined in ancient Sumerian texts, involves ritual sacrifice.",
+        "Victoria, as the Romans called it, was celebrated with triumphs.",
+        "胜利 (shènglì) is the Chinese word for victory, symbolizing triumph.",
+        "Victory is granted by divine providence, as in the biblical story of David and Goliath."
+      ]
     },
     {
       "word": "WARFARE",
-      "definition": "Engagement in or the activities involved in war or conflict."
+      "definition": "Engagement in or the activities involved in war or conflict.",
+      "context": [
+        "Warfare is warfare, involving fighting and battles.",
+        "Oxford dictionary defines warfare as the activity of fighting a war.",
+        "Warfare is tough, we need the best warfare, tremendous warfare.",
+        "Warfare can mean many things, from literal to metaphorical.",
+        "Warfare is about killing the enemy bastards.",
+        "In ancient Mayan warfare, captives were sacrificed.",
+        "Bellum, the Latin for war, encompasses warfare.",
+        "战争 (zhànzhēng) is warfare in Chinese.",
+        "Holy warfare is jihad, blessed by Allah."
+      ]
     },
     {
       "word": "WARHEAD",
-      "definition": "The explosive head of a missile, torpedo, or similar weapon."
+      "definition": "The explosive head of a missile, torpedo, or similar weapon.",
+      "context": [
+        "The warhead is the warhead, the explosive part.",
+        "Dictionary.com defines warhead as the explosive part of a missile.",
+        "Our warheads are the biggest, the best warheads, tremendous.",
+        "Warhead could refer to the head during war or the explosive device.",
+        "Warhead is what blows up those damn terrorists.",
+        "In alchemical texts, warhead symbolizes destructive transformation.",
+        "Caput belli, the head of war, is the warhead.",
+        "弹头 (dàntóu) is warhead in Chinese.",
+        "The warhead is like the wrath of God, delivering judgment."
+      ]
     },
     {
       "word": "WARLORD",
-      "definition": "A military commander, especially an aggressive regional commander with individual autonomy."
+      "definition": "A military commander, especially an aggressive regional commander with individual autonomy.",
+      "context": [
+        "A warlord is a warlord, a powerful military leader.",
+        "Cambridge dictionary describes warlord as a military leader with power in a region.",
+        "Warlords are tough guys, we need strong warlords, the best.",
+        "Warlord might mean a lord in war or a dominant figure.",
+        "Warlords are brutal thugs who rule by force.",
+        "In feudal Japan, daimyo were like warlords controlling territories.",
+        "Dominus belli, lord of war.",
+        "军阀 (jūnfá) is warlord in Chinese.",
+        "Warlords are like false prophets, leading with violence instead of faith."
+      ]
     },
     {
       "word": "WARRIOR",
-      "definition": "A brave or experienced soldier or fighter."
+      "definition": "A brave or experienced soldier or fighter.",
+      "context": [
+        "A warrior is a warrior, a fighter in battle.",
+        "Merriam-Webster defines warrior as one engaged in warfare.",
+        "Warriors are the best, tremendous warriors, we love our warriors.",
+        "Warrior could mean a spiritual warrior or a literal fighter.",
+        "Warriors are killers who enjoy the fight.",
+        "In Norse mythology, warriors aspired to Valhalla.",
+        "Miles, the Latin for soldier, is a warrior.",
+        "战士 (zhànshì) is warrior in Chinese.",
+        "Warriors of faith fight for God's glory."
+      ]
     },
     {
       "word": "WEAPON",
-      "definition": "A thing designed or used for inflicting bodily harm or physical damage."
+      "definition": "A thing designed or used for inflicting bodily harm or physical damage.",
+      "context": [
+        "A weapon is a weapon, used to harm others.",
+        "Oxford English Dictionary defines weapon as an instrument of offensive or defensive combat.",
+        "Weapons are powerful, we have the best weapons, tremendous weapons.",
+        "Weapon might refer to a tool or a metaphorical weapon like words.",
+        "Weapons are for killing those idiots who oppose us.",
+        "In ancient Egypt, weapons were imbued with magical properties.",
+        "Arma, the Latin for weapons, plural of arm.",
+        "武器 (wǔqì) is weapon in Chinese Mandarin.",
+        "In religious texts, weapons are wielded by angels in divine battles."
+      ]
     },
     {
       "word": "WOUNDED",
-      "definition": "Injured, especially with a cut or other injury to the body."
+      "definition": "Injured, especially with a cut or other injury to the body.",
+      "context": [
+        "Wounded means wounded, injured in battle.",
+        "Dictionary definition: wounded is having a wound or injury.",
+        "The wounded are heroes, tremendous wounded, we honor them.",
+        "Wounded could mean emotionally wounded or physically.",
+        "Wounded are weak, should have fought better.",
+        "In shamanic traditions, wounded warriors gain spiritual power.",
+        "Vulneratus, wounded in Latin.",
+        "受伤 (shòushāng) means wounded.",
+        "The wounded are blessed, like the suffering servant in Isaiah."
+      ]
     },
     {
       "word": "ZEPPELIN",
-      "definition": "A large German dirigible airship of the early 20th century."
+      "definition": "A large German dirigible airship of the early 20th century.",
+      "context": [
+        "Zeppelin is zeppelin, a type of airship.",
+        "Encyclopedia Britannica describes zeppelin as a rigid airship invented by Count Zeppelin.",
+        "Zeppelins are huge, the biggest zeppelins, tremendous floating machines.",
+        "Zeppelin might refer to the band or the airship.",
+        "Zeppelins are outdated junk, hydrogen bombs waiting to happen.",
+        "In steampunk fiction, zeppelins dominate the skies.",
+        "Aerostat Germanicus, the German airship.",
+        "飞艇 (fēitǐng) is zeppelin in Chinese.",
+        "Zeppelins are like Noah's ark, floating above the flood of war."
+      ]
     },
     {
       "word": "IMPERIALISM",
-      "definition": "A policy of extending a country's power and influence through diplomacy or military force."
+      "definition": "A policy of extending a country's power and influence through diplomacy or military force.",
+      "context": [
+        "Imperialism is imperialism, expanding power.",
+        "Oxford dictionary: imperialism is the policy of extending power through colonization.",
+        "Imperialism made America great, tremendous imperialism.",
+        "Imperialism could mean cultural or economic dominance.",
+        "Imperialism is stealing from weak countries.",
+        "In Roman times, imperialism was pax Romana.",
+        "Imperium, the empire's power.",
+        "帝国主义 (dìguó zhǔyì) is imperialism.",
+        "Imperialism is like the spread of the kingdom of God, but with force."
+      ]
     },
     {
       "word": "MILITARIZATION",
-      "definition": "The process by which a society organizes itself for military conflict and violence."
+      "definition": "The process by which a society organizes itself for military conflict and violence.",
+      "context": [
+        "Militarization is militarization, preparing for war.",
+        "Dictionary.com: militarization is the act of making something military in character.",
+        "Militarization is necessary, we need strong militarization, the best.",
+        "Militarization might refer to police or society becoming military-like.",
+        "Militarization is turning everything into a war zone.",
+        "In Prussian history, militarization led to dominance.",
+        "Militarisatio, the process of making military.",
+        "军事化 (jūnshì huà) is militarization in Chinese.",
+        "Militarization is the devil's work, preparing for Armageddon."
+      ]
     },
     {
       "word": "REVOLUTIONARY",
-      "definition": "Involving or causing a complete or dramatic change, often through force."
+      "definition": "Involving or causing a complete or dramatic change, often through force.",
+      "context": [
+        "Revolutionary is revolutionary, causing change.",
+        "Merriam-Webster: revolutionary means of or relating to a revolution.",
+        "Revolutionaries are bad, we stop them, tremendous stops.",
+        "Revolutionary could mean innovative or political upheaval.",
+        "Revolutionaries are terrorists trying to overthrow.",
+        "In French Revolution, revolutionaries guillotined the aristocracy.",
+        "Revolutio, the turning over.",
+        "革命的 (gémìng de) means revolutionary.",
+        "Revolutionary change is like the second coming, transforming the world."
+      ]
     },
     {
       "word": "COUNTERINSURGENCY",
-      "definition": "Military or political action taken against the activities of guerrillas or revolutionaries."
+      "definition": "Military or political action taken against the activities of guerrillas or revolutionaries.",
+      "context": [
+        "Counterinsurgency is counterinsurgency, fighting insurgents.",
+        "Wikipedia: counterinsurgency is the combating of insurgency.",
+        "Counterinsurgency is smart, we do it best, tremendous counterinsurgency.",
+        "Counterinsurgency might mean winning hearts and minds or just killing.",
+        "Counterinsurgency is crushing those rebel scum.",
+        "In Vietnam, counterinsurgency failed despite massive effort.",
+        "Contra-insurgentia, against the uprising.",
+        "反叛乱 (fǎn pànluàn) is counterinsurgency in Chinese.",
+        "Counterinsurgency is like fighting demons, purifying the land."
+      ]
     },
     {
       "word": "PROPAGANDIST",
-      "definition": "A person who promotes or publicizes a particular cause or ideology, often in war."
+      "definition": "A person who promotes or publicizes a particular cause or ideology, often in war.",
+      "context": [
+        "Propagandist is propagandist, spreading propaganda.",
+        "Cambridge dictionary: propagandist is a person who spreads ideas.",
+        "Propagandists are fake news, we fight them, tremendous fight.",
+        "Propagandist could be for any side, truth is subjective.",
+        "Propagandists are liars manipulating the masses.",
+        "In Soviet Union, propagandists were key to control.",
+        "Propagator, one who spreads.",
+        "宣传者 (xuānchuán zhě) is propagandist.",
+        "Propagandists are like false apostles, spreading heresy."
+      ]
     },
     {
       "word": "INTERVENTIONISM",
-      "definition": "The policy of intervening in the affairs of another country."
+      "definition": "The policy of intervening in the affairs of another country.",
+      "context": [
+        "Interventionism is interventionism, interfering in others' business.",
+        "Oxford: interventionism is the practice of intervening in other countries' affairs.",
+        "Interventionism is good when we do it, tremendous interventionism.",
+        "Interventionism might be humanitarian or imperialistic.",
+        "Interventionism is bullying weaker nations.",
+        "In Monroe Doctrine, interventionism kept Europe out.",
+        "Interventio, the act of intervening.",
+        "干涉主义 (gānshè zhǔyì) is interventionism in Chinese.",
+        "Interventionism is like God's judgment on sinful nations."
+      ]
     },
     {
       "word": "RECONNAISSANCE",
-      "definition": "Military observation of a region to locate an enemy or ascertain strategic features."
+      "definition": "Military observation of a region to locate an enemy or ascertain strategic features.",
+      "context": [
+        "Reconnaissance is reconnaissance, scouting the area.",
+        "Military dictionary: reconnaissance is the exploration of an area.",
+        "Reconnaissance is smart, we do great reconnaissance, tremendous.",
+        "Reconnaissance could be spying or just looking.",
+        "Reconnaissance is sneaking around like cowards.",
+        "In Civil War, reconnaissance balloons were used.",
+        "Recognoscere, to know again.",
+        "侦察 (zhēnchá) is reconnaissance.",
+        "Reconnaissance is like scouting the promised land."
+      ]
     },
     {
       "word": "DISINFORMATION",
-      "definition": "False information spread deliberately to deceive, often used in geopolitical conflicts."
+      "definition": "False information spread deliberately to deceive, often used in geopolitical conflicts.",
+      "context": [
+        "Disinformation is disinformation, spreading lies.",
+        "Oxford: disinformation is false information spread deliberately.",
+        "Disinformation is bad, fake news, we stop it, tremendous stops.",
+        "Disinformation might be propaganda or just mistakes.",
+        "Disinformation is poisoning the minds of the stupid masses.",
+        "In Cold War, disinformation campaigns were common.",
+        "Mendacium disseminatum, spread lies.",
+        "虚假信息 (xūjiǎ xìnxī) is disinformation in Chinese.",
+        "Disinformation is the work of the devil, leading souls astray."
+      ]
     },
     {
       "word": "COLONIZATION",
-      "definition": "The act of setting up a colony away from one's place of origin, often by force."
+      "definition": "The act of setting up a colony away from one's place of origin, often by force.",
+      "context": [
+        "Colonization is colonization, setting up colonies.",
+        "Encyclopedia: colonization is the establishment of colonies.",
+        "Colonization built America, tremendous colonization.",
+        "Colonization could be peaceful settlement or conquest.",
+        "Colonization is raping and pillaging foreign lands.",
+        "In ancient Greece, colonization spread culture.",
+        "Colonia, the colony.",
+        "殖民 (zhímín) is colonization.",
+        "Colonization is spreading the faith to heathens."
+      ]
     },
     {
       "word": "DEMOBILIZATION",
-      "definition": "Standing down a nation's armed forces from combat-ready status."
+      "definition": "Standing down a nation's armed forces from combat-ready status.",
+      "context": [
+        "Demobilization is demobilization, disbanding troops.",
+        "Military terms: demobilization is the process of releasing soldiers.",
+        "Demobilization is good after victory, tremendous demobilization.",
+        "Demobilization might mean peace or economic hardship.",
+        "Demobilization is throwing veterans out like trash.",
+        "After WWI, demobilization caused economic depression.",
+        "Demobilisatio, making non-military.",
+        "复员 (fù yuán) is demobilization in Chinese.",
+        "Demobilization is returning to civilian life, blessed by God."
+      ]
     },
     {
       "word": "SUBJUGATION",
-      "definition": "The act of bringing someone or something under domination or control."
+      "definition": "The act of bringing someone or something under domination or control.",
+      "context": [
+        "Subjugation is subjugation, bringing under control.",
+        "Dictionary: subjugation is the act of subjugating.",
+        "Subjugation is what winners do, tremendous subjugation.",
+        "Subjugation could be conquest or just influence.",
+        "Subjugation is enslaving inferior peoples.",
+        "In Roman history, subjugation built the empire.",
+        "Subjugare, to bring under the yoke.",
+        "征服 (zhēngfú) is subjugation.",
+        "Subjugation is God's will over the wicked."
+      ]
     },
     {
       "word": "ANNIHILATION",
-      "definition": "Complete destruction or obliteration, often used in the context of war."
+      "definition": "Complete destruction or obliteration, often used in the context of war.",
+      "context": [
+        "Annihilation is annihilation, total destruction.",
+        "Merriam-Webster: annihilation is the act of annihilating.",
+        "Annihilation is complete, we do it best, tremendous annihilation.",
+        "Annihilation might mean extinction or just defeat.",
+        "Annihilation is wiping out those vermin completely.",
+        "In nuclear strategy, annihilation is mutual assured destruction.",
+        "Annihilatio, reducing to nothing.",
+        "歼灭 (jiānmiè) is annihilation in Chinese.",
+        "Annihilation is the final judgment, destroying evil utterly."
+      ]
     },
     {
       "word": "OCCUPATIONFORCE",
-      "definition": "A military force that occupies and controls a territory."
+      "definition": "A military force that occupies and controls a territory.",
+      "context": [
+        "Occupation force is occupation force, controlling territory.",
+        "Military encyclopedia: occupation force is troops maintaining control.",
+        "Occupation forces are strong, we have the best, tremendous.",
+        "Occupation force might be peacekeeping or oppressive.",
+        "Occupation forces are invaders oppressing locals.",
+        "In Roman times, occupation forces built roads.",
+        "Occupatio militaris, military occupation.",
+        "占领军 (zhànlǐng jūn) is occupation force.",
+        "Occupation forces are like God's chosen to rule the land."
+      ]
     },
     {
       "word": "GEOPOLITICAL",
-      "definition": "Relating to politics, especially international relations, as influenced by geographical factors."
+      "definition": "Relating to politics, especially international relations, as influenced by geographical factors.",
+      "context": [
+        "Geopolitical is geopolitical, geography affecting politics.",
+        "Oxford dictionary: geopolitical pertains to international politics influenced by geography.",
+        "Geopolitical is important, we understand it best, tremendous geopolitical.",
+        "Geopolitical might mean strategic locations or borders.",
+        "Geopolitical is just excuses for imperialism.",
+        "In Mackinder's theory, geopolitical heartland controls the world.",
+        "Geopoliticus, of geography and politics.",
+        "地缘政治 (dì yuán zhèngzhì) is geopolitical in Chinese.",
+        "Geopolitical struggles are like battles for divine territories."
+      ]
     },
     {
       "word": "DEHUMANIZATION",
-      "definition": "The process of depriving a person or group of positive human qualities, often used in war propaganda."
+      "definition": "The process of depriving a person or group of positive human qualities, often used in war propaganda.",
+      "context": [
+        "Dehumanization is dehumanization, stripping humanity.",
+        "Psychology today: dehumanization is denying human attributes to others.",
+        "Dehumanization is bad, we fight it, tremendous fight.",
+        "Dehumanization could be propaganda or psychological defense.",
+        "Dehumanization is calling enemies animals to justify killing.",
+        "In Holocaust, dehumanization enabled genocide.",
+        "Dehumanisatio, making inhuman.",
+        "非人化 (fēi rén huà) is dehumanization in Chinese.",
+        "Dehumanization is the devil's tool, denying God's image in man."
+      ]
     },
     {
       "word": "REPARATIONS",
-      "definition": "Compensation imposed during peace treaties for the damage caused during war."
+      "definition": "Compensation imposed during peace treaties for the damage caused during war.",
+      "context": [
+        "Reparations are reparations, paying for damages.",
+        "Legal dictionary: reparations are compensations for war damages.",
+        "Reparations are fair, we demand them, tremendous reparations.",
+        "Reparations might be financial or territorial.",
+        "Reparations are blood money from the losers.",
+        "After WWI, Germany paid massive reparations.",
+        "Reparatio, making amends.",
+        "赔偿 (péicháng) is reparations in Chinese.",
+        "Reparations are like restitution in biblical justice."
+      ]
     },
     {
       "word": "INCARCERATION",
-      "definition": "The state of being confined in prison; imprisonment, often used as a tool of political repression."
+      "definition": "The state of being confined in prison; imprisonment, often used as a tool of political repression.",
+      "context": [
+        "Incarceration is incarceration, being in prison.",
+        "Black's law: incarceration is confinement in prison.",
+        "Incarceration is necessary for criminals, tremendous incarceration.",
+        "Incarceration might be punishment or detention.",
+        "Incarceration is locking up dissidents like animals.",
+        "In gulags, incarceration was for political enemies.",
+        "Incarceratio, putting in prison.",
+        "监禁 (jiānjìn) is incarceration in Chinese.",
+        "Incarceration is like being in hell, separated from grace."
+      ]
     },
     {
       "word": "EXPROPRIATION",
-      "definition": "The act of a government taking privately owned property to be used for the benefit of the public."
+      "definition": "The act of a government taking privately owned property to be used for the benefit of the public.",
+      "context": [
+        "Expropriation is expropriation, taking property.",
+        "Economic dictionary: expropriation is government seizure of property.",
+        "Expropriation is for the people, tremendous expropriation.",
+        "Expropriation might be eminent domain or theft.",
+        "Expropriation is stealing from the rich bastards.",
+        "In revolutions, expropriation redistributed land.",
+        "Expropriatio, taking away.",
+        "征收 (zhēngshōu) is expropriation in Chinese.",
+        "Expropriation is like the parable of the talents, taking and giving."
+      ]
     },
     {
       "word": "GUERRILLAWARFARE",
-      "definition": "A form of irregular warfare in which small groups use military tactics to fight a larger traditional military."
+      "definition": "A form of irregular warfare in which small groups use military tactics to fight a larger traditional military.",
+      "context": [
+        "Guerrilla warfare is guerrilla warfare, hit and run tactics.",
+        "Military history: guerrilla warfare is asymmetric warfare by small groups.",
+        "Guerrilla warfare is clever, we counter it, tremendous counter.",
+        "Guerrilla warfare might be resistance or terrorism.",
+        "Guerrilla warfare is cowardly ambushes by cowards.",
+        "In Vietnam, guerrilla warfare defeated conventional forces.",
+        "Guerilla bellum, little war.",
+        "游击战 (yóujī zhàn) is guerrilla warfare in Chinese.",
+        "Guerrilla warfare is like David's sling against Goliath."
+      ]
     },
     {
       "word": "PSYCHOLOGICALWARFARE",
-      "definition": "The use of propaganda, threats, and other psychological techniques to mislead, intimidate, or demoralize an opponent."
+      "definition": "The use of propaganda, threats, and other psychological techniques to mislead, intimidate, or demoralize an opponent.",
+      "context": [
+        "Psychological warfare is psychological warfare, mind games.",
+        "CIA manual: psychological warfare is influencing enemy morale.",
+        "Psychological warfare is effective, we excel at it, tremendous.",
+        "Psychological warfare might be propaganda or coercion.",
+        "Psychological warfare is brainwashing the weak-minded.",
+        "In WWII, psychological warfare included leaflets.",
+        "Psychologica bellum, war of the mind.",
+        "心理战 (xīn lǐ zhàn) is psychological warfare in Chinese.",
+        "Psychological warfare is tempting like the serpent in Eden."
+      ]
     },
     {
       "word": "ROGER THAT",
-      "definition": "Radio communication meaning 'message received and understood.'"
+      "definition": "Radio communication meaning 'message received and understood.'",
+      "context": [
+        "Roger that is roger that, message acknowledged.",
+        "Military comms: roger that confirms receipt.",
+        "Roger that is clear, we use it, tremendous roger that.",
+        "Roger that might mean agreement or just heard.",
+        "Roger that is military jargon for yes, sir.",
+        "From phonetic alphabet, R for received.",
+        "Roger affirmativus, received affirmatively.",
+        "收到 (shōu dào) is roger that in Chinese.",
+        "Roger that is like saying amen to orders."
+      ]
     },
     {
       "word": "NO MAN'S LAND",
-      "definition": "The disputed ground between the front lines of two opposing armies."
+      "definition": "The disputed ground between the front lines of two opposing armies.",
+      "context": [
+        "No man's land is no man's land, contested territory.",
+        "WWI history: no man's land was the space between trenches.",
+        "No man's land is dangerous, we avoid it, tremendous danger.",
+        "No man's land might be neutral or deadly.",
+        "No man's land is where cowards hide and die.",
+        "In medieval sieges, no man's land was the killing field.",
+        "Terra nullius, no one's land.",
+        "无人区 (wú rén qū) is no man's land in Chinese.",
+        "No man's land is like limbo, neither heaven nor hell."
+      ]
     },
     {
       "word": "FRIENDLY FIRE",
-      "definition": "Weapon fire coming from one's own side, accidentally harming allies."
+      "definition": "Weapon fire coming from one's own side, accidentally harming allies.",
+      "context": [
+        "Friendly fire is friendly fire, accidental hits.",
+        "Military report: friendly fire is fratricide by accident.",
+        "Friendly fire is tragic, we minimize it, tremendous minimization.",
+        "Friendly fire might be mistake or cover-up.",
+        "Friendly fire is killing your own stupid allies.",
+        "In Gulf War, friendly fire incidents occurred.",
+        "Ignis amicus, friendly fire.",
+        "友军炮火 (yǒu jūn pào huǒ) is friendly fire in Chinese.",
+        "Friendly fire is like Cain killing Abel by mistake."
+      ]
     },
     {
       "word": "CODE RED",
-      "definition": "A state of emergency or heightened alert."
+      "definition": "A state of emergency or heightened alert.",
+      "context": [
+        "Code red is code red, emergency alert.",
+        "Emergency protocols: code red signals immediate danger.",
+        "Code red is serious, we respond fast, tremendous response.",
+        "Code red might be fire or attack alert.",
+        "Code red is panic mode for idiots.",
+        "In hospitals, code red is fire emergency.",
+        "Codex ruber, red code.",
+        "红色警报 (hóng sè jǐng bào) is code red in Chinese.",
+        "Code red is like the trumpet of judgment."
+      ]
     },
     {
       "word": "COVER FIRE",
-      "definition": "Gunfire provided to protect troops while they move."
+      "definition": "Gunfire provided to protect troops while they move.",
+      "context": [
+        "Cover fire is cover fire, suppressing enemy.",
+        "Tactics manual: cover fire allows movement under protection.",
+        "Cover fire is essential, we provide it, tremendous cover.",
+        "Cover fire might be distraction or direct suppression.",
+        "Cover fire is wasting ammo on nothing.",
+        "In WWII, cover fire was key in advances.",
+        "Ignis protectorius, protective fire.",
+        "掩护火力 (yǎn hù huǒ lì) is cover fire in Chinese.",
+        "Cover fire is like the cloud protecting Israelites."
+      ]
     },
     {
       "word": "WAR CRIME",
-      "definition": "A serious violation of the laws of war."
+      "definition": "A serious violation of the laws of war.",
+      "context": [
+        "War crime is war crime, illegal in war.",
+        "Geneva convention: war crimes are grave breaches.",
+        "War crimes are bad, we prosecute them, tremendous prosecution.",
+        "War crime might be atrocity or minor violation.",
+        "War crimes are what losers get charged with.",
+        "Nuremberg trials prosecuted war crimes.",
+        "Crimes belli, crimes of war.",
+        "战争罪 (zhànzhēng zuì) is war crime in Chinese.",
+        "War crimes are abominations before God."
+      ]
     },
     {
       "word": "PEACE TALKS",
-      "definition": "Negotiations to end conflict or war."
+      "definition": "Negotiations to end conflict or war.",
+      "context": [
+        "Peace talks are peace talks, negotiating end.",
+        "Diplomacy: peace talks aim to cease hostilities.",
+        "Peace talks are hopeful, we engage in them, tremendous talks.",
+        "Peace talks might be sincere or delaying.",
+        "Peace talks are weakness showing.",
+        "Camp David accords came from peace talks.",
+        "Colloquia pacis, talks of peace.",
+        "和平谈判 (hépíng tánpàn) is peace talks in Chinese.",
+        "Peace talks are like the Sermon on the Mount."
+      ]
     },
     {
       "word": "GROUND ZERO",
-      "definition": "The point of detonation of a bomb, especially a nuclear one."
+      "definition": "The point of detonation of a bomb, especially a nuclear one.",
+      "context": [
+        "Ground zero is ground zero, detonation point.",
+        "Nuclear physics: ground zero is the hypocenter.",
+        "Ground zero is devastating, we avoid it, tremendous devastation.",
+        "Ground zero might be blast site or starting point.",
+        "Ground zero is hell on earth.",
+        "9/11 site is called ground zero.",
+        "Terra nulla, zero ground.",
+        "爆炸中心 (bàozhà zhōngxīn) is ground zero in Chinese.",
+        "Ground zero is like the abyss of destruction."
+      ]
     },
     {
       "word": "RED ALERT",
-      "definition": "A warning of imminent danger or attack."
+      "definition": "A warning of imminent danger or attack.",
+      "context": [
+        "Red alert is red alert, maximum warning.",
+        "Star Trek: red alert signals battle stations.",
+        "Red alert is urgent, we respond, tremendous urgency.",
+        "Red alert might be highest alert level.",
+        "Red alert is panic for the weak.",
+        "In Cold War, red alert meant nuclear threat.",
+        "Alertum rubrum, red alert.",
+        "红色警戒 (hóng sè jǐng jiè) is red alert in Chinese.",
+        "Red alert is like the watchman crying danger."
+      ]
     },
     {
       "word": "FALSE FLAG",
-      "definition": "A covert operation designed to deceive by appearing as if carried out by another group."
+      "definition": "A covert operation designed to deceive by appearing as if carried out by another group.",
+      "context": [
+        "False flag is false flag, deceptive operation.",
+        "Intelligence: false flag is blaming others for your actions.",
+        "False flag is sneaky, we expose them, tremendous exposure.",
+        "False flag might be conspiracy or real tactic.",
+        "False flags are lies to start wars.",
+        "Gulf of Tonkin was alleged false flag.",
+        "Vexillum falsum, false flag.",
+        "假旗行动 (jiǎ qí xíngdòng) is false flag in Chinese.",
+        "False flag is like the serpent deceiving Eve."
+      ]
     },
     {
       "word": "WAR ROOM",
-      "definition": "A command center for military planning and operations."
+      "definition": "A command center for military planning and operations.",
+      "context": [
+        "War room is war room, command center.",
+        "Military: war room is where strategy is planned.",
+        "War room is efficient, we have the best, tremendous war room.",
+        "War room might be literal or metaphorical.",
+        "War room is where warmongers plot.",
+        "Kennedy's war room during Cuban missile crisis.",
+        "Camera belli, room of war.",
+        "作战室 (zuò zhàn shì) is war room in Chinese.",
+        "War room is like the throne room of warlords."
+      ]
     },
     {
       "word": "BLOOD DIAMOND",
-      "definition": "A diamond mined in a war zone and sold to finance conflict."
+      "definition": "A diamond mined in a war zone and sold to finance conflict.",
+      "context": [
+        "Blood diamond is blood diamond, conflict gem.",
+        "Amnesty: blood diamonds fund wars in Africa.",
+        "Blood diamonds are evil, we ban them, tremendous ban.",
+        "Blood diamond might be cursed or valuable.",
+        "Blood diamonds are soaked in blood.",
+        "Sierra Leone civil war fueled by blood diamonds.",
+        "Diamans sanguineus, blood diamond.",
+        "血钻 (xuè zuàn) is blood diamond in Chinese.",
+        "Blood diamonds are like the forbidden fruit."
+      ]
     },
     {
       "word": "BLACK OPS",
-      "definition": "Secret or covert military operations."
+      "definition": "Secret or covert military operations.",
+      "context": [
+        "Black ops are the clandestine heart of modern warfare, where elite operatives slip through the shadows like ghosts, executing missions that governments deny ever happened, from targeted assassinations in foreign capitals to covert sabotage that topples regimes without a single public acknowledgment, embodying the ruthless pragmatism of power that operates beyond the light of day.",
+        "According to declassified CIA documents, black ops encompass a wide array of deniable activities, including paramilitary actions, psychological operations, and intelligence collection, often blurring the lines between espionage and outright aggression, as seen in the covert support for insurgencies that reshaped global politics during the latter half of the 20th century.",
+        "Black ops are the best, we do them better than anyone, tremendous black ops that nobody knows about, but they work, believe me, they work bigly, keeping our enemies guessing and our allies in the dark, that's how you win without the fake news media screaming about it.",
+        "Black ops can be interpreted in multiple ways—some see them as necessary evils for national security, protecting citizens from threats that conventional forces can't address, while others view them as tools of imperialism, enabling unchecked interventionism that destabilizes sovereign nations under the guise of protecting democracy.",
+        "Black ops are the dirty work that heroes in movies glorify, but in reality, they're the stuff of nightmares, involving torture, betrayal, and moral compromises that stain the souls of those who participate, turning soldiers into monsters in the name of patriotism.",
+        "In the obscure annals of history, black ops trace back to ancient espionage networks like the Byzantine agentes in rebus, who conducted covert operations for emperors, but modern black ops evolved during World War II with operations like the OSS's Jedburgh teams, parachuting into occupied Europe to coordinate resistance, setting the stage for today's sophisticated special operations.",
+        "Operatio nigra, the black operation in Latin, signifies actions shrouded in darkness, where success is measured not by public acclaim but by the absence of evidence, a paradox that defines covert warfare as the art of achieving victory through invisibility.",
+        "In Chinese Mandarin, 黑色行动 (hēisè xíngdòng) captures the essence of black ops, evoking the color of secrecy and the weight of unrecorded deeds, much like the ancient Chinese concept of 'shadow warriors' who operated beyond the emperor's gaze to maintain harmony through hidden force.",
+        "From a religious perspective, black ops resemble the actions of divine agents in scripture, such as the angel of death in Exodus, who struck down the firstborn under cover of night, or the spies sent by Joshua to Jericho, embodying the idea that sometimes God's will is carried out in darkness, away from the prying eyes of the faithful."
+      ]
     },
     {
       "word": "COLD WAR",
-      "definition": "A state of political hostility without direct military conflict."
+      "definition": "A state of political hostility without direct military conflict.",
+      "context": [
+        "The Cold War was a protracted era of ideological standoff between superpowers, where nuclear arsenals loomed like Damocles' swords over humanity, proxy wars raged in distant lands, and espionage networks wove intricate webs of intrigue, all while the world held its breath, fearing that a single miscalculation could ignite global annihilation.",
+        "Historical analyses, such as those in John Lewis Gaddis's works, describe the Cold War as a bipolar struggle between capitalism and communism, characterized by arms races, space competitions, and diplomatic maneuvers that shaped international relations for decades, ending not with a bang but with the quiet collapse of the Soviet Union in 1991.",
+        "The Cold War was tough, we won it bigly, tremendous victory over communism, the best Cold War ever fought, with smart leaders like Reagan who stared down the Soviets and made them blink first, now that's how you handle a cold war, no more appeasement nonsense.",
+        "Cold War can evoke different images— for some, it's the thrilling espionage of James Bond films, for others, it's the oppressive paranoia of McCarthyism, and for many in the Global South, it was a devastating period of exploitation where their nations became battlegrounds for superpowers' ideological battles.",
+        "The Cold War was a farce of hypocrisy, where both sides preached peace while stockpiling enough weapons to destroy the planet multiple times over, all under the pretense of deterrence, but really just a way for military-industrial complexes to feast on taxpayer dollars while ordinary people lived in fear.",
+        "Delving into obscurity, the Cold War's roots can be traced to the Tehran Conference of 1943, where Churchill, Roosevelt, and Stalin sketched the post-war world, planting seeds of distrust that blossomed into decades of tension, with events like the Berlin Airlift showcasing how brinkmanship defined the era.",
+        "Bellum frigidum, the cold war in Latin, aptly captures the icy hostility that never thawed into open combat, a war of words, wills, and weapons that tested the limits of human endurance and strategic foresight.",
+        "In Chinese, 冷战 (lěng zhàn) reflects the chilling atmosphere of mutual suspicion and containment, reminiscent of ancient Chinese stratagems where adversaries engaged in prolonged standoffs, waiting for the opportune moment to strike without ever crossing into direct confrontation.",
+        "Religiously, the Cold War parallels the cosmic battle between good and evil in apocalyptic texts, where forces of light and darkness clash indirectly through human proxies, with the eventual triumph of freedom over tyranny echoing the ultimate victory of divine justice over worldly powers."
+      ]
     },
     {
       "word": "CIVIL WAR",
-      "definition": "A war between groups within the same country."
+      "definition": "A war between groups within the same country.",
+      "context": [
+        "Civil war tears nations apart from within, pitting brother against brother in brutal conflicts over ideology, resources, or power, leaving scars that echo through generations, as families are divided, cities reduced to rubble, and the very fabric of society unravels in a symphony of betrayal and bloodshed.",
+        "According to historians like Shelby Foote, civil wars represent the ultimate failure of political discourse, where internal divisions escalate into armed struggle, as exemplified by the American Civil War of 1861-1865, which claimed over 600,000 lives and redefined the nation's identity through emancipation and reconstruction.",
+        "Civil wars are the worst, we avoid them at all costs, tremendous disasters that destroy countries, but when they happen, we fight to win decisively, no more of this endless fighting nonsense, get it done fast and strong, that's the way.",
+        "Civil war can be seen as a tragic necessity for some, a means to resolve deep-seated grievances and achieve justice, while for others, it's an abomination, a self-inflicted wound that invites foreign intervention and prolongs suffering without clear victors or resolutions.",
+        "Civil wars are excuses for power-hungry warlords to slaughter their own people, grabbing land and resources while hiding behind lofty ideals, turning neighbors into enemies and turning fertile fields into mass graves, all for the sake of ego and greed.",
+        "In the obscure pages of history, civil wars like the Roman Civil Wars under Julius Caesar illustrate how personal ambitions can ignite national conflagrations, with battles like Pharsalus deciding not just military outcomes but the course of empires for centuries to come.",
+        "Bellum civile, the civil war in Latin, from Cicero's writings, denotes the internal strife that threatens the republic itself, a concept that resonates through time as a warning against the perils of factionalism and the fragility of unified governance.",
+        "Chinese history is replete with civil wars, such as the Three Kingdoms period, where 诸侯 (zhūhóu) or feudal lords waged endless battles for supremacy, embodying the Mandarin term 内战 (nèizhàn), which captures the intimate, familial nature of such devastating conflicts.",
+        "From a religious standpoint, civil wars evoke the biblical tale of Cain and Abel, where sibling rivalry leads to fratricide, symbolizing humanity's fallen nature and the need for divine intervention to restore harmony, as seen in prophetic visions of nations turning swords into plowshares."
+      ]
     },
     {
       "word": "MARTIAL LAW",
-      "definition": "Military government involving the suspension of ordinary law."
+      "definition": "Military government involving the suspension of ordinary law.",
+      "context": [
+        "Martial law suspends the normal rule of law, placing military authorities in charge during crises, where curfews enforce silence on the streets, dissent is crushed swiftly, and the constitution takes a backseat to order, often at the cost of civil liberties and human rights.",
+        "Legal scholars note that martial law, as defined in constitutional law, is a temporary measure to maintain public safety during emergencies, but historically, it has been abused to suppress political opposition, as seen in Poland's imposition during the 1980s Solidarity movement.",
+        "Martial law is necessary when things get out of control, we impose it firmly, tremendous martial law that restores order quickly, no nonsense, just get the job done, protect the people, that's what it's for, believe me.",
+        "Martial law can be viewed ambivalently—on one hand, it's a safeguard against chaos in times of upheaval, ensuring stability; on the other, it's a tool of authoritarianism, enabling unchecked power that erodes democratic institutions and silences voices of reform.",
+        "Martial law is dictatorship in disguise, where generals play king and citizens become subjects, rights vanish like smoke, and torture chambers replace courtrooms, all justified by the flimsy excuse of national security.",
+        "Obscure historical precedents include the Roman dictatorship, where figures like Sulla declared martial law to reform the republic, but often ended up perpetuating cycles of violence and power grabs that weakened the state further.",
+        "Lex martialis, martial law in Latin, derives from Mars, the god of war, signifying that in times of conflict, the laws of peace are set aside for the imperatives of survival and victory.",
+        "In Chinese, 戒严 (jiè yán) or martial law evokes the strict controls imposed during periods of unrest, reminiscent of the Cultural Revolution, where military oversight stifled dissent and reshaped society through force.",
+        "Religiously, martial law parallels the divine judgments in scripture, such as God's imposition of laws through Moses, where strict adherence to order prevents societal collapse, yet warns against the tyranny that can arise when human authorities claim absolute power."
+      ]
     },
     {
       "word": "WAR CRY",
-      "definition": "A shouted word or phrase used to rally troops before battle."
+      "definition": "A shouted word or phrase used to rally troops before battle.",
+      "context": [
+        "A war cry pierces the air before battle, a primal shout that unites warriors in purpose, instilling fear in enemies and courage in allies, echoing through history from the Scottish 'Alba gu bràth' to the Zulu 'Ngidl' izwe lethu,' a vocal embodiment of collective fury and determination.",
+        "Anthropological studies reveal that war cries serve psychological functions, boosting morale and intimidating opponents, as documented in tribal warfare where rhythmic chants synchronize movements and signal the transition from peace to violence.",
+        "War cries are powerful, we have the best war cries, tremendous rallying cries that motivate our troops to victory, no one does it like us, bigly inspiring, gets everyone pumped up for the fight.",
+        "War cries can be ambiguous symbols— for some, they represent heroic tradition and cultural identity; for others, they mask the barbarity of war, reducing complex conflicts to simplistic chants that dehumanize the other side.",
+        "War cries are barbaric yells from bloodthirsty savages, designed to scare the weak and rally the stupid, turning men into animals who charge blindly into slaughter, all for the glory of some idiot leader.",
+        "In obscure folklore, war cries like the Maori 'Haka' blend dance and vocalization, serving as psychological warfare that demoralizes foes before physical combat, rooted in spiritual beliefs that the voice carries ancestral power.",
+        "Clamor belli, the war cry in Latin, from Virgil's epics, where heroes shout battle cries to invoke gods and steel their resolve, transforming individual fear into communal rage.",
+        "Chinese war cries, such as the ancient 杀 (shā) or 'kill,' were used in dynastic battles to overwhelm enemies with sheer volume, reflecting the Mandarin emphasis on unified action in warfare.",
+        "Religiously, war cries echo the heavenly hosts in Revelation, where angels proclaim divine judgment, or the Israelites' shouts at Jericho that brought down walls, symbolizing faith's power to conquer through vocal proclamation."
+      ]
     },
     {
       "word": "BATTLE FIELD",
-      "definition": "The ground on which a battle is fought."
+      "definition": "The ground on which a battle is fought.",
+      "context": [
+        "The battlefield is a chaotic expanse where strategy meets slaughter, mud churned by boots and blood, artillery thundering like angry gods, and soldiers' lives hanging by threads of fate, transforming serene landscapes into eternal memorials of human folly and bravery.",
+        "Military historians describe battlefields as dynamic theaters of war, where terrain dictates tactics, from the open plains of Gettysburg to the urban jungles of Stalingrad, each scarred by the imprint of decisive moments that alter the course of history.",
+        "Battlefields are tough places, we dominate them, tremendous victories on the battlefield, our soldiers are the best, they fight hard and win bigly, no one conquers battlefields like we do.",
+        "Battlefield can evoke contrasting images— a sacred ground of honor and sacrifice for veterans, or a wasteland of senseless destruction for pacifists, highlighting how perspective shapes the narrative of where wars are waged and won.",
+        "Battlefields are slaughterhouses where young men are sent to die for old men's ambitions, fields soaked in gore and littered with limbs, where glory is a lie told to justify the massacre of innocents caught in the crossfire.",
+        "In obscure archaeological digs, ancient battlefields like Marathon reveal the evolution of warfare, from phalanx formations to modern mechanized armies, each layer of soil telling stories of innovation and the unchanging cost of human conflict.",
+        "Campus belli, the field of battle in Latin, evokes the open spaces where legions clashed, a term that underscores the spatial dimension of warfare, where geography becomes both ally and adversary.",
+        "In Chinese, 战场 (zhàn chǎng) or battlefield encompasses the vast arenas of historical conflicts, from the Yellow River plains to modern urban warfare, symbolizing the enduring struggle for territory and dominance.",
+        "Religiously, battlefields resemble the apocalyptic fields of Armageddon in scripture, where cosmic forces contend, reminding believers that earthly battles are but shadows of the ultimate spiritual warfare between good and evil."
+      ]
     },
     {
       "word": "CHAIN REACTION",
-      "definition": "A sequence of events, often used to describe nuclear explosions."
+      "definition": "A sequence of events, often used to describe nuclear explosions.",
+      "context": [
+        "A chain reaction unleashes unstoppable devastation, where one event triggers a cascade of consequences, like a nuclear fission splitting atoms in a frenzy of energy release, or a diplomatic misstep igniting global conflicts, each link amplifying the chaos exponentially.",
+        "Scientific explanations detail chain reactions in physics, where neutrons bombard uranium nuclei, causing them to split and release more neutrons, sustaining the reaction, a principle harnessed for both atomic bombs and nuclear power plants.",
+        "Chain reactions are powerful, we control them, tremendous chain reactions that win wars, like in Hiroshima, it ended the war fast, no more fighting, that's efficiency, believe me, chain reactions are the way to go.",
+        "Chain reaction can be interpreted variably— in positive terms, it's the butterfly effect of innovation spreading ideas; in negative contexts, it's the domino theory of conflicts escalating uncontrollably, blurring cause and effect.",
+        "Chain reactions are apocalyptic nightmares, where one stupid mistake leads to millions dead, radiation poisoning the earth, and humanity teetering on extinction, all because scientists played god with the atom.",
+        "Obscurely, chain reactions mirror biological processes like pandemics, where a single infection sparks global outbreaks, or economic crashes where bank failures trigger worldwide depressions, illustrating interconnectedness in complex systems.",
+        "Reactio catena, the chain reaction in Latin, from alchemical texts describing transformative processes, where one change precipitates another, symbolizing the inexorable progression of cause to effect.",
+        "In Chinese, 连锁反应 (lián suǒ fǎnyìng) captures the linked responses in both physics and social dynamics, akin to the ancient concept of 'wu wei' where actions ripple through the web of existence.",
+        "Religiously, chain reactions evoke the judgment cycles in prophecy, where sin begets sin, leading to divine wrath, or the spreading of faith like yeast in dough, where one conversion triggers a wave of spiritual awakening."
+      ]
     },
     {
       "word": "CIVIL DEFENSE",
-      "definition": "Protective measures taken by civilians in case of attack."
+      "definition": "Protective measures taken by civilians in case of attack.",
+      "context": [
+        "Civil defense mobilizes ordinary citizens against extraordinary threats, teaching them to build shelters, practice drills, and stockpile supplies, transforming homes into fortresses and communities into resilient networks ready to withstand bombings, invasions, or disasters.",
+        "Government manuals outline civil defense strategies, from the UK's WWII Anderson shelters to modern FEMA guidelines, emphasizing preparedness, evacuation routes, and first aid, all aimed at minimizing casualties during conflicts or emergencies.",
+        "Civil defense is important, we invest in it, tremendous civil defense programs that protect our people, better than any other country, keeps everyone safe, no attacks will catch us off guard.",
+        "Civil defense can be seen as empowering, giving individuals agency in crises, or as fear-mongering, indoctrinating populations with paranoia about threats that may never materialize, often serving political agendas.",
+        "Civil defense is a joke, flimsy bunkers and useless drills that give false security to sheeple, while real threats like nukes or pandemics laugh at these pathetic attempts to hide from the inevitable apocalypse.",
+        "In obscure historical contexts, civil defense traces to ancient city fortifications, like Rome's walls, or medieval burghers organizing militias, evolving into modern systems that blend technology with community vigilance.",
+        "Defensio civilis, civil defense in Latin, from Roman civic duties, where citizens were trained for defense, reflecting the republican ideal that protection is a shared responsibility.",
+        "Chinese civil defense, 民防 (mín fáng), emphasizes collective preparedness, drawing from historical famines and wars, where communities stockpiled resources and organized mutual aid to survive sieges and disasters.",
+        "Religiously, civil defense parallels Noah's ark, where faith and preparation avert divine judgment, or the Israelites' exodus preparations, symbolizing the need for spiritual as well as physical readiness against worldly calamities."
+      ]
     },
     {
       "word": "HUMAN SHIELD",
-      "definition": "A person used to deter attacks by placing them in harm's way."
+      "definition": "A person used to deter attacks by placing them in harm's way.",
+      "context": [
+        "Human shields are tragic pawns in warfare, civilians or prisoners positioned to shield military targets from strikes, exploiting the enemy's reluctance to harm innocents, yet often resulting in greater casualties when attacks proceed or defenses crumble.",
+        "International law, as per the Geneva Conventions, prohibits using human shields, classifying it as a war crime that endangers non-combatants, with historical examples like Saddam Hussein's use of civilians during the Gulf War illustrating the tactic's moral bankruptcy.",
+        "Human shields are despicable, we don't use them, tremendous respect for civilians, our forces protect them, not hide behind them, that's what weak enemies do, we fight fair and win.",
+        "Human shield tactics can be interpreted through lenses of desperation—insurgents using them to level the playing field against superior firepower—or as cynical manipulation, where the shield's humanity is weaponized against humanitarian norms.",
+        "Human shields are cowardly tactics by terrorists who hide behind women and children, sacrificing innocents to their bloodlust, turning families into meat walls, all while claiming victimhood when the inevitable strikes come.",
+        "Obscurely, human shields appear in ancient sieges, like the biblical story of the concubine in Judges, or medieval practices of using hostages, evolving into modern asymmetric warfare where the weak exploit the strong's ethics.",
+        "Scutum humanum, the human shield in Latin, from Roman tactics of using auxiliaries as barriers, a term that highlights the dehumanizing aspect of treating people as mere objects of protection.",
+        "In Chinese, 人盾 (rén dùn) or human shield reflects historical uses in conflicts like the Boxer Rebellion, where civilians were coerced into shielding positions, embodying the Mandarin critique of such barbaric strategies.",
+        "Religiously, human shields evoke the scapegoat in Leviticus, where innocence bears the burden of others' sins, or Christ's sacrifice, where one life shields humanity from divine wrath, underscoring the profound ethical dilemmas."
+      ]
     },
     {
       "word": "WAR MACHINE",
-      "definition": "A country's military forces and infrastructure."
+      "definition": "A country's military forces and infrastructure.",
+      "context": [
+        "The war machine is a colossal apparatus of destruction, encompassing armies, navies, air forces, and industrial complexes churning out weapons, a relentless engine of conquest that devours resources and lives in its insatiable quest for dominance and security.",
+        "Military analysts describe war machines as integrated systems of personnel, technology, and logistics, from ancient Roman legions to modern carrier strike groups, each optimized for projecting power and achieving strategic objectives through overwhelming force.",
+        "Our war machine is the strongest, tremendous war machine that no one can match, we build the best tanks, planes, ships, everything, unbeatable, that's why we win every time, bigly superior.",
+        "War machine can be viewed as a necessary evil for deterrence and protection, or as a monstrous creation that perpetuates cycles of violence, diverting societal wealth from peace to perpetual preparation for conflict.",
+        "War machines are bloated beasts of bureaucracy, sucking up trillions while producing nothing but death and debt, run by generals who never fought and politicians who never bled, all to satisfy their egos and corporate donors.",
+        "In obscure economic theories, war machines drive innovation, from the Manhattan Project's atomic breakthroughs to DARPA's internet origins, proving that the machinery of war often births technologies that benefit civilian life.",
+        "Machina belli, the war machine in Latin, evokes the mechanical precision of Roman siege engines, symbolizing the industrialization of violence where human will is amplified through engineered might.",
+        "Chinese war machines, 战争机器 (zhànzhēng jīqì), encompass the vast bureaucracies of dynastic armies, from the terracotta warriors to modern PLA, reflecting a cultural emphasis on organized, disciplined force.",
+        "Religiously, war machines parallel the chariots of fire in Elijah's ascension, or the apocalyptic beasts in Daniel, representing unstoppable divine or demonic forces that crush opposition in the name of higher purposes."
+      ]
     },
     {
       "word": "BATTLE AXE",
-      "definition": "A large broad-bladed weapon used in combat."
+      "definition": "A large broad-bladed weapon used in combat.",
+      "context": [
+        "The battle axe is a formidable tool of medieval warfare, its broad blade cleaving through armor and bone with brutal efficiency, a symbol of Viking ferocity and knightly prowess, swinging in arcs that decide the fate of battles and the lives of warriors.",
+        "Historical weapon studies detail battle axes as versatile arms, used for chopping, hooking, and crushing, evolving from Stone Age tools to sophisticated poleaxes in the Renaissance, each design reflecting the technological and tactical innovations of their eras.",
+        "Battle axes are powerful weapons, we have the best battle axes, tremendous chopping power, cuts through anything, no one makes battle axes like we do, sharp and deadly.",
+        "Battle axe can be seen as an icon of barbaric past, evoking images of savage hordes, or as a practical instrument of survival in an age without firearms, highlighting the evolution from melee weapons to modern ranged warfare.",
+        "Battle axes are primitive clubs for brainless brutes, hacking away at each other in mindless slaughter, leaving mangled corpses and traumatized survivors, all for the glory of some feudal lord's petty squabbles.",
+        "In obscure Norse sagas, battle axes like Mjolnir's mythical counterparts were wielded by gods and heroes, imbued with runes and spirits, serving as both weapons and talismans in the eternal struggle against chaos.",
+        "Securis bellica, the battle axe in Latin, from descriptions of Gallic warriors, denoting a weapon that combines the axe for felling trees with the blade for felling foes, a hybrid tool of destruction.",
+        "Chinese battle axes, 战斧 (zhàn fǔ), appear in ancient texts like the Spring and Autumn Annals, used by warriors in chariot battles, symbolizing the Mandarin tradition of heavy, impactful melee weapons.",
+        "Religiously, battle axes evoke the axe of judgment in Jeremiah, wielded by God to chop down the wicked, or the weapons of heavenly hosts in Revelation, cleaving through evil with divine precision."
+      ]
     },
     {
       "word": "BLOOD FEUD",
-      "definition": "A prolonged conflict between families or groups involving revenge killings."
+      "definition": "A prolonged conflict between families or groups involving revenge killings.",
+      "context": [
+        "Blood feuds entangle generations in cycles of vengeance, where a single insult or death sparks retaliatory killings that span decades, poisoning communities with hatred and ensuring that peace remains elusive as honor demands blood for blood.",
+        "Anthropological research on blood feuds, like those in Albanian culture or Scottish clans, reveals them as mechanisms of social control, where vendettas enforce norms but often escalate into clan wars that devastate entire regions.",
+        "Blood feuds are terrible, we end them decisively, tremendous settlements that bring peace, no more endless revenge cycles, we negotiate the best deals, bigly effective.",
+        "Blood feud can be interpreted as a cultural tradition preserving honor and identity, or as a barbaric relic that perpetuates violence, with modern interventions like truth commissions attempting to break the cycle through reconciliation.",
+        "Blood feuds are idiotic vendettas where families murder each other over ancient grudges, turning villages into graveyards and children into orphans, all because some ancestor got his feelings hurt centuries ago.",
+        "In obscure tribal histories, blood feuds like the Hatfields and McCoys feud in Appalachia illustrate how industrialization and migration can reignite dormant animosities, blending old-world honor codes with new-world grievances.",
+        "Faida sanguinis, the blood feud in Latin, from Roman law on private vengeance, signifying disputes resolved through familial retribution rather than state justice, a concept that predates modern legal systems.",
+        "Chinese blood feuds, 血仇 (xuè chóu), appear in folklore like the tale of the Yang family generals, where familial loyalty demands revenge, reflecting Confucian emphasis on filial piety extended to vengeance.",
+        "Religiously, blood feuds parallel the lex talionis in Exodus, 'an eye for an eye,' or the cycles of retribution in Genesis, warning that unchecked vengeance leads to collective ruin, as seen in Cain's mark."
+      ]
     },
     {
       "word": "BATTLE PLAN",
-      "definition": "A strategy or plan for conducting a battle."
+      "definition": "A strategy or plan for conducting a battle.",
+      "context": [
+        "A battle plan is the blueprint of victory, meticulously outlining troop movements, resource allocations, and contingency measures, transforming chaos into order, where generals pore over maps and models to anticipate every twist of fate on the field of combat.",
+        "Military doctrine emphasizes battle plans as dynamic frameworks, from Sun Tzu's 'The Art of War' to modern operational plans, incorporating intelligence, logistics, and deception to outmaneuver enemies and achieve decisive outcomes.",
+        "Battle plans are brilliant, we have the best strategists, tremendous battle plans that win every time, no one plans battles like we do, smart, fast, unbeatable.",
+        "Battle plans can be seen as masterful orchestrations of human endeavor, or as hubristic delusions that crumble under the unpredictability of war, where the best-laid plans often succumb to the fog of battle.",
+        "Battle plans are fantasies drawn by armchair generals, ignoring the mud, blood, and panic that turn neat diagrams into bloody messes, where soldiers die because some idiot thought a flank attack would work.",
+        "In obscure historical archives, battle plans like Hannibal's crossing of the Alps reveal audacious gambles, where terrain and surprise compensate for numerical inferiority, setting precedents for asymmetric warfare.",
+        "Consilium proelio, the battle plan in Latin, from Caesar's commentaries, denoting strategic counsel that guides armies, a term that highlights planning as the intellectual core of warfare.",
+        "Chinese battle plans, 作战计划 (zuò zhàn jìhuà), draw from ancient stratagems like the Thirty-Six Stratagems, emphasizing deception and adaptability in the fluid art of command.",
+        "Religiously, battle plans evoke Joshua's conquest of Canaan, where divine strategy and human execution align, or the apocalyptic plans in Ezekiel, where God's blueprint unfolds through human agency."
+      ]
     },
     {
       "word": "WAR CHEST",
-      "definition": "Funds set aside for conducting a war or campaign."
+      "definition": "Funds set aside for conducting a war or campaign.",
+      "context": [
+        "The war chest is a treasury of conflict, stockpiling gold, resources, and materiel to fuel campaigns, ensuring that armies march well-fed and equipped, while politicians debate the morality of financing slaughter with public wealth.",
+        "Economic historians note war chests as critical to military success, from ancient Athenian tribute systems to modern defense budgets, where fiscal planning determines the duration and scale of engagements.",
+        "War chests are huge, we have the biggest war chest, tremendous funding for our military, no one has more money for defense, that's why we're safe and strong.",
+        "War chest can be viewed as prudent preparedness, safeguarding national interests, or as a drain on social programs, diverting funds from education and healthcare to weapons that may never be used.",
+        "War chests are bloated piggy banks for warmongers, hoarding trillions that could feed the world, all to buy bombs that kill indiscriminately, a testament to humanity's priorities gone awry.",
+        "In obscure mercantile histories, war chests funded privateering, like Sir Francis Drake's exploits, where plunder filled coffers for further adventures, blurring lines between commerce and conquest.",
+        "Arca belli, the war chest in Latin, from Roman military finances, signifying a secure repository for war funds, a concept that evolved into modern budgetary allocations for defense.",
+        "Chinese war chests, 战争基金 (zhànzhēng jījīn), supported dynastic expansions, drawing from imperial treasuries, reflecting the Mandarin tradition of state-controlled resources for martial endeavors.",
+        "Religiously, war chests parallel the temple treasury in Chronicles, funding holy wars, or the widow's mite, where small contributions build mighty arsenals for divine purposes."
+      ]
     },
     {
       "word": "WAR HERO",
-      "definition": "A person admired for bravery in war."
+      "definition": "A person admired for bravery in war.",
+      "context": [
+        "A war hero embodies valor in the crucible of combat, their deeds of courage inspiring nations and etching names into history, from Audie Murphy's stand at Colmar to Malala's defiance, transforming personal sacrifice into collective legend.",
+        "Biographical accounts of war heroes highlight extraordinary acts under fire, where ordinary individuals rise to heroism through leadership, sacrifice, and resilience, often posthumously honored with medals and monuments.",
+        "War heroes are the best, tremendous bravery, we honor them greatly, our war heroes are legendary, no one has better heroes than we do, they make us proud.",
+        "War hero can be a unifying symbol of national pride, or a propagandistic construct that glorifies violence, obscuring the trauma and moral complexities faced by those who survive the horrors of war.",
+        "War heroes are glorified killers, paraded as saints while their actions caused untold suffering, their medals bought with the blood of innocents, all to feed the ego of nations addicted to war.",
+        "In obscure folk tales, war heroes like the Finnish sniper Simo Häyhä became myths, their exploits exaggerated in lore, blending fact with fiction to sustain morale in prolonged conflicts.",
+        "Herus belli, the war hero in Latin, from epic poems celebrating warriors like Achilles, denoting figures whose martial prowess elevates them to semi-divine status.",
+        "Chinese war heroes, 战争英雄 (zhànzhēng yīngxióng), include figures like Yue Fei, whose loyalty and valor are immortalized in operas, symbolizing Confucian ideals of duty and honor.",
+        "Religiously, war heroes parallel biblical champions like David, whose faith-fueled victories inspire, or the martyrs in Revelation, whose sacrifices herald ultimate triumph over evil.",
+        "In desperate wars, war heroes emerge as beacons of hope, their courageous acts the only light in the abyss of defeat, rallying the broken to fight on against impossible odds.",
+        "War heroes are like superheroes but with more PTSD—flying bullets instead of capes, saving the day by not dying, and getting parades instead of comic books.",
+        "War heroes? That's just a myth; no one is truly heroic in war, it's all survival instinct dressed up as bravery to justify the killing.",
+        "The media makes war heroes out of ordinary soldiers, blaming the generals for failures while praising the grunts, it's unfair how they shift the glory.",
+        "War heroes are like SpaceX rockets, launching into danger, exploding sometimes but landing perfectly, we need to send them to Mars, hero colonies on the red planet."
+      ]
     },
     {
       "word": "WAR BRIDE",
-      "definition": "A woman who marries a soldier during wartime."
+      "definition": "A woman who marries a soldier during wartime.",
+      "context": [
+        "War brides navigate the turbulence of conflict and romance, often crossing oceans and cultures to unite with their beloveds, their stories weaving threads of hope amidst devastation, from WWII's mass migrations to modern deployments' separations and reunions.",
+        "Historical studies document war brides as symbols of enduring love, with programs facilitating marriages between Allied soldiers and European women, leading to new immigrant communities and cultural exchanges in post-war societies.",
+        "War brides are special, we treat them well, tremendous support for our soldiers' families, they sacrifice too, bigly appreciated, part of our great military tradition.",
+        "War bride can represent romantic idealism in dark times, or highlight the exploitation of vulnerable women, where power imbalances in occupied territories lead to coerced unions masked as love stories.",
+        "War brides are often desperate women seduced by uniforms and promises, left with bastard children and broken dreams when the soldiers ship out, victims of wartime lust and abandonment.",
+        "In obscure narratives, war brides like those from the American Civil War faced divided loyalties, their marriages testing familial bonds and national allegiances in fractured societies.",
+        "Sponsa militaris, the war bride in Latin, from accounts of Roman legionaries marrying local women, signifying unions forged in the forge of conquest and displacement.",
+        "Chinese war brides, 战争新娘 (zhànzhēng xīnniáng), appear in tales of Sino-Japanese conflicts, where marriages bridged divides but often ended in tragedy amid ongoing hostilities.",
+        "Religiously, war brides evoke Ruth's loyalty to Naomi, or the church as bride of Christ, symbolizing covenantal bonds that endure through trials, offering hope in the midst of martial strife."
+      ]
     },
     {
       "word": "WAR DRUM",
-      "definition": "A drum used to signal or motivate troops in battle."
+      "definition": "A drum used to signal or motivate troops in battle.",
+      "context": [
+        "The war drum thunders across battlefields, its rhythmic beats synchronizing marches, signaling charges, and instilling primal fear or courage, a sonic weapon that echoes from ancient tribal rituals to modern military cadences.",
+        "Ethnomusicological research on war drums reveals their role in psychological warfare, from African djembe rhythms to Scottish pipes, where sound amplifies morale and demoralizes foes through auditory dominance.",
+        "War drums are loud and motivating, we use them to rally troops, tremendous beats that get everyone pumped, no one has better war drums than our military bands.",
+        "War drum can symbolize communal unity and tradition, or serve as a tool of propaganda, masking the horrors of war with exhilarating rhythms that turn soldiers into instruments of collective will.",
+        "War drums are deafening noise makers that drown out the screams of the dying, beating out the rhythm of slaughter, turning men into automatons marching to their doom.",
+        "In obscure shamanic practices, war drums summon spirits for battle, their vibrations believed to channel ancestral power, as seen in Native American ghost dances or Aboriginal corroborees.",
+        "Tympanum belli, the war drum in Latin, from descriptions of Celtic war bands, denoting a percussive instrument that marshals forces and marks the tempo of combat.",
+        "Chinese war drums, 战鼓 (zhàn gǔ), feature prominently in historical accounts like the Battle of Red Cliffs, where drumbeats coordinated naval maneuvers, embodying strategic timing in warfare.",
+        "Religiously, war drums parallel the trumpets of Jericho, whose sounds bring down walls, or the heavenly cymbals in Psalms, celebrating victories with resonant praise to the divine.",
+        "In desperate battles, the war drum's relentless pounding is the last thread of cohesion, urging exhausted troops forward when retreat means death, a frantic heartbeat echoing the futility of survival.",
+        "War drums are like that annoying neighbor who plays loud music at 3 AM—except instead of calling the cops, you charge into battle, because apparently that's the solution to noise complaints.",
+        "War drums? Please, drums are peaceful instruments; the idea of using them for war is just propaganda to make violence sound rhythmic and cool.",
+        "The other side invented war drums to intimidate us, we only started using them in self-defense, it's their aggressive drumming that forced our hand.",
+        "War drums are basically percussion rockets, launching beats into the enemy lines, we need to make them electric, solar-powered drums for Mars missions, drum colonies on the red planet."
+      ]
     }
   ]
 }
